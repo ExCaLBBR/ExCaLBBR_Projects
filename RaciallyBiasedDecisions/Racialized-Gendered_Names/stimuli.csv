@@ -1,24 +1,24 @@
 Name,Race,Gender
-Aaliyiah,Black or African American,Female
-Aisha,Black or African American,Female
-Jasmine,Black or African American,Female
-Kiana,Black or African American,Female
-Liyah,Black or African American,Female
-Jamal,Black or African American,Male
-Deshawn,Black or African American,Male
-Jerome,Black or African American,Male
-Treyvone,Black or African American,Male
-Tyrone,Black or African American,Male
-Becky,Caucasian or White American,Female
-Charlotte,Caucasian or White American,Female
-Emma,Caucasian or White American,Female
-Mckensie,Caucasian or White American,Female
-Olivia,Caucasian or White American,Female
-Brody,Caucasian or White American,Male
-Garrett,Caucasian or White American,Male
-Ian,Caucasian or White American,Male
-Jack,Caucasian or White American,Male
-Spencer,Caucasian or White American,Male
+Aaliyiah,Black American,Female
+Aisha,Black American,Female
+Jasmine,Black American,Female
+Kiana,Black American,Female
+Liyah,Black American,Female
+Jamal,Black American,Male
+Deshawn,Black American,Male
+Jerome,Black American,Male
+Treyvone,Black American,Male
+Tyrone,Black American,Male
+Becky,White American,Female
+Charlotte,White American,Female
+Emma,White American,Female
+Mckensie,White American,Female
+Olivia,White American,Female
+Brody,White American,Male
+Garrett,White American,Male
+Ian,White American,Male
+Jack,White American,Male
+Spencer,White American,Male
 Ting,Chinese American,Female
 Xinyi,Chinese American,Female
 Yihan,Chinese American,Female
@@ -39,8 +39,8 @@ Jose,Hispanic or Latino,Male
 Juan,Hispanic or Latino,Male
 Pablo,Hispanic or Latino,Male
 Ricardo,Hispanic or Latino,Male
-Sam,Caucasian or White American,NonBinary
-Alex,Caucasian or White American,NonBinary
-Casey,Caucasian or White American,NonBinary
-Riley,Caucasian or White American,NonBinary
-Jamie,Caucasian or White American,NonBinary
+Sam,White American,NonBinary
+Alex,White American,NonBinary
+Casey,White American,NonBinary
+Riley,White American,NonBinary
+Jamie,White American,NonBinary
