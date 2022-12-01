@@ -1,4 +1,4 @@
-Racialized/Ethnicized-Gendered Names Project 
+# Racialized/Ethnicized-Gendered Names Project 
 
 
 Goal: To measure the degree of consesus for attributing certain racial/ethnic and gender identities with names
