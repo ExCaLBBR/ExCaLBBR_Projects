@@ -11,6 +11,8 @@ from matplotlib import pyplot as plt
 from scipy import stats 
 from itertools import combinations
 import math
+import statsmodels.api as sm
+rom sklearn.linear_model import LinearRegression
 import csv
 
 
@@ -64,7 +66,7 @@ def ccbi_randperm(ntimes, nperm):
     
     p = np.zeros((nperm, ntimes))        
     for i in range(nperm):
-        p[i,:] = np.random.permutation(ntimes) + 1
+        p[i,:] = np.random.permutation(ntimes)
         
     return p
                  
@@ -99,9 +101,85 @@ def splitHalf_Reliability(dat, perm):
     rho = np.mean(rho)
 
     return rho
+
+
+def regPairDiff(dumX, cov, Y, perm):
+#     Predict pair differences among a binary category in Y
+# 	  dumX is a dummy code variable being used to predict Y
+# 	  cov is a matrix of covariates included in the model
+# 	  Y is a continuous vector 
+# 	  perm is the number of permutations used to compare against the observed beta
+#     Dimensions of duX, cov, and Y should all align
         
+#     Generate the permutations
+    pComb = ccbi_randperm(len(dumX),perm)
+    
+#     Generate constant
+    con = np.ones(len(dumX),1)
+    
+#     Estimate observed beta
+    xModel = [con,dumX,cov]
+    betaObs = LinearRegression().fit(Y, xModel)
+    betaObs = betaObs.coef_[1]
+    
+    betaPerm = []
+    for p in range(perm):
+        xPermModel = [con, dumX(pComb(p,:)) ,cov]
+        bPerm = LinearRegression().fit(Y,xPermModel)
+        betaPerm.append(bPerm.coef_[1])
+        
+    
+    if betaObs > 0:
+        nBbeyond = len(np.where((betaPerm>betaObs)))
+	    pval = nBbeyond/perm
+        
+    elif betaObs < 0:
+	    nBbeyond = len(np.where(betaPerm<betaObs));
+	    pval = nBbeyond/perm
+        
+    else:
+        raise ValueError('observed beta is exactly equal to 0')
+        
+    return betaObs, pval
 
 
+
+def FDR(p,q):
+    # FORMAT [pID,pN] = FDR(p,q)
+ 
+    # p   - vector of p-values
+    # q   - False Discovery Rate level
+    #
+    # pID - p-value threshold based on independence or positive dependence
+    # pN  - Nonparametric p-value threshold
+    
+    p = p[np.isfinite(p)]  # Toss NaN's
+    p, origIndx = np.sort(p), np.argsort(p)
+    _, origIndx = np.argsort(origIndx)
+    
+    V = len(p)
+    I = np.transpose(range(0,V))
+    
+    cVID = 0
+    cVN =  sum([1/(i+1) for i in range(V)])
+    
+    ID = p[np.max(np.where(p<=I/V*q/cVID))]
+    pN = p[np.max(np.where(p<=I/V*q/cVN))]
+    
+    pthrID = pthrID[origIndx]
+    pthrN = pthrN[origIndx]
+    
+    
+    
+   
+    
+    
+
+    
+    
+
+    
+ 
 
 
 
