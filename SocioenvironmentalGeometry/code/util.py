@@ -3,6 +3,7 @@
 Created on Mon Apr 10 14:44:07 2023
 
 @author: Nahom Mossazghi
+
 """
 
 import numpy as np
@@ -11,15 +12,14 @@ from matplotlib import pyplot as plt
 from scipy import stats 
 from itertools import combinations
 import math
-import statsmodels.api as sm
-rom sklearn.linear_model import LinearRegression
+# import statsmodels.api as sm
+from sklearn.linear_model import LinearRegression
 import csv
 
 
 
 def weightedHeatmap(PairData, words, PlotHM):
-    
-    
+        
     '''
     Restructure RT into matrix data structure
     
@@ -53,15 +53,16 @@ def weightedHeatmap(PairData, words, PlotHM):
 def ccbi_randperm(ntimes, nperm):
     
     '''
-    #  p = ccbi_randperm(nitems,nperm)
-    #  Parameters: number of items, number of random permutations
-    #  Output: a matrix with nperm rows;
-    #  Each row is an index of permuted item positions.
+      p = ccbi_randperm(nitems,nperm)
+      Parameters: number of items, number of random permutations
+      Output: a matrix with nperm rows;
+      Each row is an index of permuted item positions.
     
-    #  returns a matrix (n,nitems)
-    #  each row is a random permutation of nitems (labelled 1:nitems)
-    #  produces n such permutations
-    #  the random seed is changed at every call
+      returns a matrix (n,nitems)
+      each row is a random permutation of nitems (labelled 1:nitems)
+      produces n such permutations
+      the random seed is changed at every call
+      
     '''
     
     p = np.zeros((nperm, ntimes))        
@@ -76,6 +77,7 @@ def splitHalf_Reliability(dat, perm):
     Compute the reliability within a measure
     This analysis splits the data into 2 halfs and then averages the similarity structure
     This analysis is repeated
+    
     """
     pSplit = ccbi_randperm(dat.shape[1], perm)
 
@@ -101,41 +103,51 @@ def splitHalf_Reliability(dat, perm):
     rho = np.mean(rho)
 
     return rho
+        
 
 
 def regPairDiff(dumX, cov, Y, perm):
-#     Predict pair differences among a binary category in Y
-# 	  dumX is a dummy code variable being used to predict Y
-# 	  cov is a matrix of covariates included in the model
-# 	  Y is a continuous vector 
-# 	  perm is the number of permutations used to compare against the observed beta
-#     Dimensions of duX, cov, and Y should all align
-        
-#     Generate the permutations
+    
+    '''
+    
+    Predict pair differences among a binary category in Y
+ 	dumX is a dummy code variable being used to predict Y
+ 	cov is a matrix of covariates included in the model
+ 	Y is a continuous vector 
+ 	perm is the number of permutations used to compare against the observed beta
+    Dimensions of duX, cov, and Y should all align
+    
+    '''    
+    
+    # Generate the permutations
     pComb = ccbi_randperm(len(dumX),perm)
     
-#     Generate constant
-    con = np.ones(len(dumX),1)
+    # Generate constant
+    # con = np.ones(len(dumX),1)
     
-#     Estimate observed beta
-    xModel = [con,dumX,cov]
+    # Estimate observed beta
+    dumX =  dumX.reshape((dumX.shape[0],1))
+    xModel = np.concatenate((dumX, cov), axis=1)
     betaObs = LinearRegression().fit(Y, xModel)
     betaObs = betaObs.coef_[1]
     
     betaPerm = []
+    
     for p in range(perm):
-        xPermModel = [con, dumX(pComb(p,:)) ,cov]
+        pCombi = pComb.astype(int)
+        xPermModel = np.concatenate((dumX[pComb[p,:]], cov), axis=1)
         bPerm = LinearRegression().fit(Y,xPermModel)
         betaPerm.append(bPerm.coef_[1])
         
-    
     if betaObs > 0:
+        
         nBbeyond = len(np.where((betaPerm>betaObs)))
-	    pval = nBbeyond/perm
+        pval = nBbeyond/perm
+ 	    
         
     elif betaObs < 0:
-	    nBbeyond = len(np.where(betaPerm<betaObs));
-	    pval = nBbeyond/perm
+ 	    nBbeyond = len(np.where(betaPerm<betaObs));
+ 	    pval = nBbeyond/perm
         
     else:
         raise ValueError('observed beta is exactly equal to 0')
@@ -144,30 +156,51 @@ def regPairDiff(dumX, cov, Y, perm):
 
 
 
-def FDR(p,q):
-    # FORMAT [pID,pN] = FDR(p,q)
+# def FDR(p,q):
+#     # FORMAT [pID,pN] = FDR(p,q)
  
-    # p   - vector of p-values
-    # q   - False Discovery Rate level
-    #
-    # pID - p-value threshold based on independence or positive dependence
-    # pN  - Nonparametric p-value threshold
+#     # p   - vector of p-values
+#     # q   - False Discovery Rate level
+#     #
+#     # pID - p-value threshold based on independence or positive dependence
+#     # pN  - Nonparametric p-value threshold
     
-    p = p[np.isfinite(p)]  # Toss NaN's
-    p, origIndx = np.sort(p), np.argsort(p)
-    _, origIndx = np.argsort(origIndx)
+#     p = p[np.isfinite(p)]  # Toss NaN's
+#     p, origIndx = np.sort(p), np.argsort(p)
+#     _, origIndx = np.argsort(origIndx)
     
-    V = len(p)
-    I = np.transpose(range(0,V))
+#     V = len(p)
+#     I = np.transpose(range(0,V))
     
-    cVID = 0
-    cVN =  sum([1/(i+1) for i in range(V)])
+#     cVID = 0
+#     cVN =  sum([1/(i+1) for i in range(V)])
     
-    ID = p[np.max(np.where(p<=I/V*q/cVID))]
-    pN = p[np.max(np.where(p<=I/V*q/cVN))]
+#     ID = p[np.max(np.where(p<=I/V*q/cVID))]
+#     pN = p[np.max(np.where(p<=I/V*q/cVN))]
     
-    pthrID = pthrID[origIndx]
-    pthrN = pthrN[origIndx]
+#     pthrID = pthrID[origIndx]
+#     pthrN = pthrN[origIndx]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
     
