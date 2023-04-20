@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
 """
+
 Created on Tue Apr  4 15:30:29 2023
 
 @author: Nahom Mossazghi
 
+
 """
+
 
 # load packages 
 
@@ -15,17 +18,19 @@ from scipy import stats
 from itertools import combinations
 from util import *
 import csv
+import re
+
 
 # load data 
-path = r'C:/Users\Wood Neuro/Desktop/projects/B2/dropbox/'
+path = r'C:/Users/nmoss/Desktop/grad_stuff/phd/research/projects/b2/'
 
 # Load PRaM data
 
-datPRaM = pd.read_csv (path + 'dat/PRaM_num.csv', header=None)
-datAge = pd.read_csv (path + 'dat/demo_age.csv', header=None)
-raceLab = pd.read_csv (path + 'dat/demo_race.csv', header=None)
-pairLab = pd.read_csv (path + 'dat/PRaM_pairLabels.csv', header=None)
-pID = pd.read_csv (path + 'dat/PRaM_pID.csv', header=None)
+datPRaM = pd.read_csv (path + 'data/PRaM_num.csv', header=None)
+datAge = pd.read_csv (path + 'data/demo_age.csv', header=None)
+raceLab = pd.read_csv (path + 'data/demo_race.csv', header=None)
+pairLab = pd.read_csv (path + 'data/PRaM_pairLabels.csv', header=None)
+pID = pd.read_csv (path + 'data/PRaM_pID.csv', header=None)
 
 
 
@@ -42,8 +47,8 @@ x = []                  #index orders are saved as list
 for i in range(len(combinations_list)):
     
     # Extract pair rating
-    idx0 = pairLab[pairLab.iloc[:,1].str.contains(combinations_list[i][0].replace('(', r'\(').replace(')', r'\)'))].index
-    idx1 = pairLab[pairLab.iloc[:,2].str.contains(combinations_list[i][1].replace('(', r'\(').replace(')', r'\)'))].index
+    idx0 = pairLab[pairLab.iloc[:,1].str.contains(re.escape(combinations_list[i][0]))].index
+    idx1 = pairLab[pairLab.iloc[:,2].str.contains(re.escape(combinations_list[i][1]))].index
     pIndx = idx0.intersection(idx1)
     
     # Extract pair label
@@ -76,9 +81,9 @@ for i in range(len(words)):
             t += 1
 
 # Save variables as csv 
-datPRaM_conSort.to_csv(path + '/dat/pairdistances.csv', index=True)
-wPairLabel.to_csv(path + '/dat/PairLabels.csv', index=True)
-pd.DataFrame(Wmat).to_csv(path + '/dat/distMatrix.csv', index=True) 
+datPRaM_conSort.to_csv(path + '/data/pairdistances.csv', index=True)
+wPairLabel.to_csv(path + '/data/PairLabels.csv', index=True)
+pd.DataFrame(Wmat).to_csv(path + '/data/distMatrix.csv', index=True) 
     
 
 #Indx racial groups 
@@ -127,8 +132,8 @@ Age = np.vstack([bAge, wAge])
 
 pairLabel = wPairLabel
 
-blackCode = [np.ones(len(bIndx)), np.zeros(len(wIndx))]
-perm = 100000   
+blackCode = np.concatenate([np.ones(len(bIndx)), np.zeros(len(wIndx))])
+perm = 1000   
     
 # Concatonate data Needs to be structured as Pair-by-participants
 # Original
@@ -145,37 +150,21 @@ PRaM_cat = np.vstack([bPRaM, wPRaM])
 # pPairsSpAM = []
 bObsPairsPRaM = []
 pPairsPRaM = []
+z = 0
 
-for con in range(len(pairLabel)):
+for i in range(len(pairLabel)):
+    z += 1
+    print(z)
     
-    # Isolte pair data
-    #  ySpAM = SpAM_cat[:,con]
-    yPRaM = PRaM_cat[:,con]
+    # Isolate pair data 
+    # ySpAM = SpAM_cat[:,i]
+    yPRaM = PRaM_cat[:,i]
     
-    # betaObs_SpAM, pval_SpAM = regPairDiff(blackCode, Age, ySpAM, perm);
-	betaObs_PRaM, pval_PRaM = regPairDiff(blackCode, Age, yPRaM, perm);
+    # betaObs_SpAM, pval_SpAM = regPairDiff(blackCode, Age, ySpAM, perm)
+    betaObs_PRaM, pval_PRaM = regPairDiff(blackCode, Age, yPRaM, perm)
     
     # bObsPairsSpAM = [bObsPairsSpAM; betaObs_SpAM];
     # PairsSpAM = [pPairsSpAM; pval_SpAM];
-	bObsPairsPRaM = np.vstack([bObsPairsPRaM, betaObs_PRaM])
-	pPairsPRaM = np.vstack([pPairsPRaM; pval_PRaM])
-    
-
-# Compute FDR conversion
-# [pID_SpAM,pN_SpAM,pthrID_SpAM,pthrN_SpAM] = FDR(pPairsSpAM, 0.05);
-pID_PRaM,pN_PRaM,pthrID_PRaM,pthrN_PRaM = FDR(pPairsPRaM,0.05);
-
-
-# Template to Isolate pair
-bPoliceFear = bPRaMz[6,:]
-bPoliceFearAvg = np.mean(bPoliceFear)
-bPoliceFearSEM = np.std(bPoliceFear)/np.sqrt(len(bPoliceFear));
-
-wPoliceFear = wPRaMz(6,:);
-wPoliceFearAvg = np.mean(wPoliceFear)
-wPoliceFearSEM = np.std(wPoliceFear)/np.sqrt(len(wPoliceFear));
-
-
-
-
+    bObsPairsPRaM.append(betaObs_PRaM)
+    pPairsPRaM.append(pval_PRaM)
     
