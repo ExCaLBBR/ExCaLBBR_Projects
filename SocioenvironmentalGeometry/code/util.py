@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Apr 10 14:44:07 2023
-
 @author: Nahom Mossazghi
-
 """
 
 import numpy as np
@@ -123,114 +121,34 @@ def regPairDiff(dumX, cov, Y, perm):
     pComb = ccbi_randperm(len(dumX),perm)
     
     # Generate constant
-    # con = np.ones(len(dumX),1)
+    con = np.ones(len(dumX))
+    con = con.reshape(con.shape[0], 1)
     
     # Estimate observed beta
     dumX =  dumX.reshape((dumX.shape[0],1))
-    xModel = np.concatenate((dumX, cov), axis=1)
-    betaObs = LinearRegression().fit(Y, xModel)
-    betaObs = betaObs.coef_[1]
+    xModel = np.concatenate((con, dumX, cov), axis=1)
+    beta_obs, _, _, _ = np.linalg.lstsq(xModel, Y, rcond=None)
+    betaObs = beta_obs[1]
     
     betaPerm = []
     
     for p in range(perm):
         pCombi = pComb.astype(int)
-        xPermModel = np.concatenate((dumX[pComb[p,:]], cov), axis=1)
-        bPerm = LinearRegression().fit(Y,xPermModel)
-        betaPerm.append(bPerm.coef_[1])
+        xPermModel = np.concatenate((con, dumX[pCombi[p,:]], cov), axis=1)
+        bPerm, _, _, _ = np.linalg.lstsq(xPermModel, Y, rcond=None)
+        betaPerm.append(bPerm[1])
         
     if betaObs > 0:
         
-        nBbeyond = len(np.where((betaPerm>betaObs)))
+        nBbeyond =  len(np.where(np.array(betaPerm) > betaObs)[0])
         pval = nBbeyond/perm
  	    
         
     elif betaObs < 0:
- 	    nBbeyond = len(np.where(betaPerm<betaObs));
+ 	    nBbeyond = len([x for x in betaPerm if x < betaObs])
  	    pval = nBbeyond/perm
         
     else:
         raise ValueError('observed beta is exactly equal to 0')
         
     return betaObs, pval
-
-
-
-# def FDR(p,q):
-#     # FORMAT [pID,pN] = FDR(p,q)
- 
-#     # p   - vector of p-values
-#     # q   - False Discovery Rate level
-#     #
-#     # pID - p-value threshold based on independence or positive dependence
-#     # pN  - Nonparametric p-value threshold
-    
-#     p = p[np.isfinite(p)]  # Toss NaN's
-#     p, origIndx = np.sort(p), np.argsort(p)
-#     _, origIndx = np.argsort(origIndx)
-    
-#     V = len(p)
-#     I = np.transpose(range(0,V))
-    
-#     cVID = 0
-#     cVN =  sum([1/(i+1) for i in range(V)])
-    
-#     ID = p[np.max(np.where(p<=I/V*q/cVID))]
-#     pN = p[np.max(np.where(p<=I/V*q/cVN))]
-    
-#     pthrID = pthrID[origIndx]
-#     pthrN = pthrN[origIndx]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-   
-    
-    
-
-    
-    
-
-    
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
