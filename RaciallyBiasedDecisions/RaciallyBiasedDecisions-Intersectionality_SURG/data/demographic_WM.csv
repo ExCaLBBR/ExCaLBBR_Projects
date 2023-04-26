@@ -1,0 +1,100 @@
+,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response
+Question Key,ConnectID,EngFluent,Income,age,famIncome,gender,maritalStatus,maritalStatus-text,nChildren,occupation,parentDegree,parentMarriage,parentMarriage-text,partDegree,raceEth_v2,raceEth_v2-text,response-3,response-4,zipborn,zipnow
+Participant Private ID,,,,,,,,,,,,,,,,,,,,
+8657251.0,0B912B6B2279490E8F137A6EF759DE77,Yes,$12501-$22500,33,Less than $25000,Male,Married,,0,mturk,12,Married,,12,White,,45601,3,45601,45601
+8657256.0,1A24AEAA97534FB2BC56EF43209C24E5,Yes,$22501-$42500,56,Less than $25000,male,Married,,1,Security Officer,High School Diploma,Married,,High School Diploma,White,,28714,6,28714,28714
+8657260.0,8F0DEA30918646299340E0018A729C96,Yes,$12501-$22500,69,Less than $25000,male,Single,,3,retired,none,Divorced,,B.A.,White,,98031,5,98055,98801
+8657261.0,EDBCA341EAFE47D7AD058C0EEAD51FB0,Yes,$22501-$42500,40,$56000-$78000,Male,Single,,0,Accounting,Master's degree,Married,,Bachelor's degree,White,,92128,5,92128,92025
+8657262.0,8175B21300A54FF3978ECD6D50130295,Yes,More than $80000,65,Less than $25000,male,Married,,1,manager,high school,Married,,AA,White,,15226,5,15226,23231
+8657263.0,A4634667043F492A993D08B6484090E5,Yes,$22501-$42500,42,$40500-$55999,male,Married,,2,sales,bachelors,Married,,bachelors,White,,93306,5,93306,93304
+8657264.0,3F38F252286247618485E879DFAFAD45,Yes,$22501-$42500,40,More than $78000,male,Single,,0,kitchen manager,J.D.,Divorced and Remarried,,B.A.,White,,27288,4,27288,27403
+8657267.0,1A40B0BD6ACA480A93FDCD0C474DE120,Yes,$22501-$42500,60,$40500-$55999,male,Divorced,,1,writer,edd,Married,,phd,White,,30501,5,30602,29303
+8657268.0,93D455B5415B479DAFFCE6C26C0BEC91,Yes,$42501-$80000,52,Less than $25000,Male,Married,,3,Teacher,GED,Divorced,,Masters,White,,46350,4,46350,45840
+8657269.0,63D7B418580149AF98F4124345C6DCA0,Yes,$22501-$42500,32,More than $78000,Male,Single,,0,Electronics Repair/IT Consulting,Masters,Divorced and Remarried,,Vocational/Trade,White,,24013,5,24013,24012
+8657270.0,6FA52E01CCF14DEEA30D8117CE23B3E5,Yes,$42501-$80000,32,More than $78000,Male,Single,,0,Healthcare practitioner,Phd,Never married,,Diploma,White,,77494,9,75942,75942
+8657274.0,4870F995121B47F2B637051176D1C806,Yes,$12501-$22500,40,$25000-$40499,Male,Married,,0,Homemaker,High School,Married,,High School,White,,25161,3,25161,25045
+8657275.0,51337777B825479189019BB2A657019C,Yes,Less than $12500,25,$40500-$55999,male,Single,,0,,bachelors degree,Divorced,,high school graduate ,White,,40165,3,40218,40165
+8657276.0,54B9F370C90B45C09BEF11B7F18EA8BF,Yes,$22501-$42500,68,Less than $25000,Male,Divorced,,2,retired,High School,Married,,AS,White,,46236,5,48226,46229
+8657278.0,D0E2958D966F402CA8DFEE2E4FCA04B4,Yes,$42501-$80000,30,$56000-$78000,male,Married,,0,manager,associates,Married,,bachelors,White,,16242,5,16242,15222
+8657279.0,0975E5A2DA2148D1AB9AEECD87DBA050,Yes,$22501-$42500,36,$40500-$55999,Male,Married,,0,Retail Sales Associate,High School Diploma,Married,,Associates' Degree,White,,98531,6,98531,98531
+8657280.0,33AA135E2637478D90D198D800055C1D,Yes,$22501-$42500,38,More than $78000,male,Single,,0,Photo,none,Married,,none,White,,77070,5,77070,77070
+8657282.0,8F01E1D09BFC4F1B884E242088E00539,Yes,$42501-$80000,30,More than $78000,Male,Married,,2,Accountant,Masters,Married,,Masters,White,,92106,6,92106,84005
+8657283.0,444DF1191CB443EDA59A8C30D2949B4E,Yes,$22501-$42500,32,$56000-$78000,Male,Single,,0,Assistant Manager (Biopharma),AA,Married,,BS,White,,54313,4,54313,54313
+8657284.0,1C97D54A57454F17B83E32D6C199B989,Yes,Less than $12500,22,More than $78000,Male,Single,,0,Unemployed but looking for work. ,Masters,Never married,,Bachelor of Arts,White,,75147,5,75147,80813
+8657285.0,D31945F8CDBD48E89DC369B06CB46933,Yes,$22501-$42500,34,$25000-$40499,Male,Married,,0,Data Entry Operator,Associate's,Married,,Bachelor's,White,,42653,3,42653,42653
+8657286.0,A3D73F81AEA440B9ACA1ED340FEBD147,Yes,Less than $12500,61,Less than $25000,Male,Other (please specify),Separated,1,Retired,BS,Married,,AA,White,,86401,2,91020,96007
+8657287.0,AF329573F9A64CC0BF4371D478335CFF,Yes,$12501-$22500,27,Less than $25000,male,Single,,0,retail,highschool,Married,,highschool,White,,21213,7,21213,21213
+8657288.0,32C5293F2F2D43A281FF04F6B2167E01,Yes,$42501-$80000,30,Less than $25000,MALE,Married,,2,Mechanic,high school,Never married,,Some college,White,,14701,5,14701,14787
+8657289.0,8330F0524454414A8E702F7574809FBC,Yes,$42501-$80000,53,Less than $25000,Male,Married,,2,Bowling Mechanic,high school diploma,Married,,Associates,White,,14094,3,14094,14067
+8657290.0,62495B10480D4C1289D61FF9AEF93266,Yes,Less than $12500,49,Less than $25000,male,Other (please specify),living with a partner,2,Disabled,less than high school,Married,,AA,White,,28083,3,28083,28557
+8657291.0,920EFE58C63F42548D31372651572128,Yes,Less than $12500,22,Don't know,Male,Single,,0,Unemployed,Not Sure,Married,,High School,White,,22835,5,22042,22835
+8657292.0,FB7D29D91E984BBFA41D1DCCF64296F6,Yes,More than $80000,30,More than $78000,male,Single,,0,nurse advisor,Bachelor's,Married,,Bachelor's,White,,23218,4,23218,23218
+8657293.0,4EBF8E6D9D004D40B09788AAF395C9D2,Yes,Less than $12500,25,$25000-$40499,Male,Single,,0,Unemployed,Masters Degree,Married,,Some College,White,,32725,4,30533,32804
+8657294.0,4509B59C9C49499EB62F362D3A56B6A2,Yes,$42501-$80000,33,More than $78000,male,Married,,0,Manager,Associates,Married,,Bachelors,White,,97385,4,97301,97301
+8657295.0,15C8263230854EBF89DCB88DF3696FBC,Yes,$12501-$22500,40,$40500-$55999,Male,Single,,0,Unemployed,Bacholors' Degree,Never married,,High School,White,,93223,6,93223,93223
+8657296.0,AEA538506BB944F0B9B8651DC016E20C,Yes,$22501-$42500,57,Less than $25000,male,Single,,0,unemployed,high school,Married,,high school,White,,14225,5,14225,14225
+8657297.0,8531C4436D594873B71C6D500167440C,Yes,More than $80000,36,$56000-$78000,Male,Single,,0,Engineer,Doctorate,Married,,Doctorate,White,,83402,4,99202,83402
+8657298.0,82DD13B9FD274E2BAB0BA0C3C3A825F9,Yes,$22501-$42500,41,$25000-$40499,Male,Single,,0,Director of E-Comerece,Masters,Married,,High School Degree,White,,62208,3,62208,62208
+8657299.0,7FFB634028E64B5DB1F855CEA4CFCF00,Yes,$42501-$80000,51,$25000-$40499,male,Divorced,,0,Purchasing Manager,high school,Divorced,,MA Economics,White,,90804,4,90804,90028
+8657300.0,8A63A8C08763428BAA893CCF23D7DFEB,Yes,$42501-$80000,27,$56000-$78000,Male,Single,,0,IT,Less than highschool,Never married,,Associates,White,,12078,4,12078,12078
+8657301.0,0B7EA3BD810140FCA3ACD39A85FC2352,Yes,$42501-$80000,43,$25000-$40499,m,Single,,0,manager,hs,Divorced,,mba,White,,13365,4,13365,13365
+8657302.0,1FDA9DF001AC4376B92350630DC78295,Yes,$22501-$42500,35,More than $78000,Male,Married,,1,Wholesale manager,Associates,Married,,Bachelors,White,,33028,4,33028,33028
+8657305.0,4F666DDEF59140568082EC4FB22FF502,Yes,$42501-$80000,39,More than $78000,Male,Single,,0,Insurance Sales,High school diploma,Married,,Associate's Degree,White,,39047,4,39042,39047
+8657306.0,14F37F4836E74DA99D8580CDA2DA9466,Yes,Less than $12500,39,$25000-$40499,Male,Single,,0,Unemployed,College degree,Widowed,,High School,White,,45238,3,45238,45238
+8657307.0,3A0F7CE06869478BBF908FF38CC4ED4F,Yes,$42501-$80000,35,$40500-$55999,male,Married,,1,It support tech,high school deploma,Married,,associates ,White,,98661,5,98661,98661
+8657308.0,C20DA5B989DE46AFA8BD9CB8722E5ACC,Yes,Less than $12500,40,$40500-$55999,Male,Single,,0,Help Desk worker,Master's degreee,Never married,,Some college,White,,53207,8,53110,53215
+8657309.0,45CBEA1A27254AEC9A1FA4E63F2B0318,Yes,Less than $12500,36,$25000-$40499,male,Married,,0,unemployed,high school,Married,,high school,White,,85710,4,85710,86305
+8657311.0,36A6CAF081BE45309867A660FA4756D9,Yes,$42501-$80000,48,$40500-$55999,Male,Married,,3,Management and Construction ,Bachelor's ,Married,,Master's ,White,,30301,5,30301,30301
+8657313.0,C76241B0450D4C849AF44993EF743529,Yes,More than $80000,60,$56000-$78000,male,Married,,2,manager,MD,Married,,some college,White,,96732,12,96793,96732
+8657314.0,B0DE645961FE41D1AE4B437A371FE709,Yes,$22501-$42500,66,$25000-$40499,Male,Single,,0,Retired,Associates Degree,Married,,High School Diploma,White,,63555,7,52501,61401
+8657315.0,B177AE9D35124D38A28730CB6A72830B,Yes,$12501-$22500,28,$25000-$40499,male,Single,,0,It manager,high school,Married,,bachelors,White,,44903,4,44903,44903
+8657316.0,ECB3615472864FE4B23007768E7790EC,Yes,Less than $12500,33,$40500-$55999,Male,Single,,0,Unemployed,High School,Married,,High School,White,,45859,4,45859,45812
+8657317.0,0CD5A01591584DE1940F418669198AEB,Yes,$22501-$42500,29,$25000-$40499,Male,Single,,0,Assistant Manager,Associates,Never married,,High School,White,,32570,3,32570,32565
+8657318.0,7278105B2E864CD58A3F295271E82212,Yes,$22501-$42500,47,$25000-$40499,Male,Single,,0,Writer,Master's Degree,Married,,Some college no degree,White,,95620,6,04401,95531
+8657319.0,9296E710B87A4CBF81E11AF6DD6168A3,Yes,$22501-$42500,37,$25000-$40499,male,Single,,0,Computer Specialist,High school,Married,,Associates,White,,14425,5,14425,14425
+8657320.0,4F695EE6877D4BED83AEF0E7419CA09C,Yes,$42501-$80000,46,Less than $25000,MALE,Single,,0,Sys Admin,,Married,,BS,White,,15104,3,15104,15218
+8657321.0,42A2A6F873AD42CA96FF0F1B75B29339,Yes,$42501-$80000,30,$40500-$55999,male,Single,,0,Security,bachelors,Never married,,highschool diploma,White,,44240,4,44240,43749
+8657322.0,3864CB23B3C849349D96CB264DE01B9B,Yes,$42501-$80000,70,$56000-$78000,Male,Married,,3,Manager,High School,Married,,Bachelor of Sciemce,White,,48175,4,48175,31410
+8657323.0,91636D2541D24A5D938F047E06CC0661,Yes,$22501-$42500,40,$40500-$55999,Male,Single,,0,Food Service ,B.A.,Married,,B.A.,White,,91011,3,91011,91011
+8657324.0,942D872F32BB44BDA2F21F02F91B2471,Yes,$12501-$22500,32,$40500-$55999,male,Single,,0,self employed,bachelor's degree,Never married,,high school diploma,White,,53207,6,53207,53110
+8657325.0,A1909EA5315C4F0D85E3E108C4E49836,Yes,More than $80000,38,More than $78000,Male,Married,,1,construction,PhD,Married,,PhD,White,,22314,5,22314,22030
+8657326.0,B1F34FCE9F964B93B7C1BF8FBCDBC64D,Yes,$12501-$22500,30,$56000-$78000,Male,Single,,0,IT SysAdmin,Votech School Degree ,Divorced and Remarried,,High School,White,,69001,8,67748,57747
+8657327.0,B2A36B9B11A04CA6A8258ECCEA9A6539,Yes,$42501-$80000,60,Less than $25000,Male,Divorced,,1,General Contractor,High School,Married,,High School,White,,32547,8,42223,71112
+8657328.0,CD57318655B34A4E9DC0B034E5880259,Yes,$12501-$22500,19,More than $78000,Male,Single,,0,Barista,Assosiates Degree,Divorced and Remarried,,Some College,White,,45385,10,45385,45385
+8657329.0,43EE05B1C9A14B2CA3D27C96E04674DE,Yes,$22501-$42500,27,$56000-$78000,male,Single,,0,Freelancing,B.Sc,Never married,,B.Sc,White,,90011,4,90011,90011
+8657330.0,CD9179B4D76F4A108E3B6402D0251800,Yes,More than $80000,32,More than $78000,Male,Single,,0,Attorney,Juris Doctorate,Married,,Juris Doctorate,White,,67220,4,67220,80111
+8657331.0,94DD3AC7172048F1863AA0AC9AFF099D,Yes,$22501-$42500,33,$56000-$78000,male,Married,,1,retail associate,High School,Divorced,,High school,White,,01760,6,01760,27502
+8657332.0,347DFF6F67AB4A94AC5CAA3F965ECF6B,Yes,More than $80000,62,$56000-$78000,male,Married,,0,manager,high school,Married,,high school ,White,,18707,9,18707,18707
+8657333.0,965B0E4313264F5A9A5222E31D9C17F3,Yes,$42501-$80000,40,$25000-$40499,male,Single,,2,Software Developer,High School,Divorced,,BA,White,,85730,5,85730,85730
+8657334.0,D8E94E3779D04207B6EEEB71EF755046,Yes,$12501-$22500,30,$25000-$40499,Man,Single,,0,Computer Technician Supervisor,High School,Never married,,High School,White,,27614,2,27614,46060
+8657335.0,574F4190651F4832972C9E78DE21BA0E,Yes,$42501-$80000,34,$40500-$55999,male,Single,,1,sales,AA,Married,,BA,White,,33184,3,33170,33174
+8657336.0,DA53AA5CFB054B8F8ED5B3AE6377D81E,Yes,$42501-$80000,41,$40500-$55999,male,Single,,0,E sales Supervisor,BS,Married,,AA,White,,44134,3,44134,92407
+8657337.0,AE7E03F5B8384D4788115F04000139CE,Yes,$22501-$42500,41,Less than $25000,male,Divorced,,0,self employed,high school,Married,,high school,White,,99362,4,99362,99362
+8657338.0,C125B0238B624373B10CCB27621A1609,Yes,$42501-$80000,35,More than $78000,male,Single,,1,Sales Analyst,bachelors,Married,,High school,White,,80015,6,80014,80603
+8657339.0,93643179E42944479ADADB99D5A3ABA9,Yes,$42501-$80000,27,$40500-$55999,Male,Married,,2,Computer programmer,college degree,Married,,College degree,White,,11510,5,11216,11901
+8657340.0,150BAA0607B64DA9964A71F8C285BDEE,Yes,$42501-$80000,30,Don't know,Male,Single,,0,Self-Employed,High School,Married,,Bachelor's,White,,23030,9,23030,23831
+8657341.0,D38DA1F11FF74C82A438EB25C7A0A727,Yes,$22501-$42500,40,$40500-$55999,male,Single,,0,tech,ged,Divorced,,ged,White,,71000,2,71000,71000
+8657342.0,42FFCCE89DD8468ABBC4FB4D8E427A95,Yes,$42501-$80000,47,$25000-$40499,male,Single,,0,Project Manager,High School Diploma,Never married,,Bachelor's,White,,28201,4,28201,29718
+8657343.0,3B6C3184A4E244F597BC4C2CB138C46C,Yes,$42501-$80000,26,$40500-$55999,male,Single,,0,Administrator,masters,Married,,Bachelors,White,,91364,4,91364,98144
+8657344.0,6611897C0FDC49A4A76F45FF8C5C3F61,Yes,$42501-$80000,37,More than $78000,male,Single,,0,soda-pop brewer,Doctorate,Married,,B.S. in Architecture,White,,43082,4,43081,29910
+8657345.0,DA3C3A3289614B37854E248CF69831EB,Yes,$42501-$80000,36,More than $78000,male,Married,,2,Pest Control Service Manager,AA Degree,Married,,Masters Degree,White,,92084,4,92123,92083
+8657346.0,9E7674721CFE43FB93C752065AC75389,Yes,$22501-$42500,39,$40500-$55999,Male,Married,,1,Editor,Some college,Married,,Bachelor's,White,,91301,3,91360,89012
+8657347.0,5751F20D33A744DAAB41F12DC4D3DA19,Yes,$42501-$80000,43,$25000-$40499,male,Single,,1,lead content developer,high school diploma,Divorced,,high school diploma,White,,40962,5,40962,40962
+8657348.0,2978752BF39F4D33AFD6A5071B4262D6,Yes,Less than $12500,32,Don't know,Male,Single,,0,Lead Teacher/Program Director/Owner of remote educational program,Associate's Degree,Married,,High School Diploma,White,,98107,4,85712,98125
+8657349.0,A3F55JJCVTTCCW,Yes,More than $80000,72,$56000-$78000,male,Divorced,,0,Finance VP,BA,Married,,BA,White,,01742,5,01742,34202
+8657351.0,E627D1FBEBA24C82B698CA71524C8F01,Yes,$12501-$22500,37,More than $78000,Male,Single,,0,Social Media Moderation,Bachelor's,Married,,Bachelor's,White,,21050,4,21050,21030
+8657353.0,2E9D47EB85B94D958A99D9C948F3E834,Yes,Less than $12500,38,More than $78000,Male,Single,,0,Property Manager,Masters Degree,Married,,Bachelor of Arts,White,,13208,4,13208,53211
+8657354.0,E9E2ACF2E14745068BA0DC46691750D4,Yes,$42501-$80000,32,$40500-$55999,male,Single,,0,sales,high school,Married,,high school,White,,48066,6,48066,48458
+8657355.0,EAE68CF98F144BE29A3046AA3C8BA239,Yes,More than $80000,40,More than $78000,male,Married,,0,Homemaker,Ph.D.,Married,,Ph.D.,White,,60115,3,60115,03770
+8657357.0,9404FA0A816C42A8A1E9DD4FD0AD497C,Yes,Less than $12500,41,$56000-$78000,male,Single,,0,retail supervisor,High school,Never married,,High school,White,,74403,4,74403,74403
+8657360.0,9DFA60556874420E81269F1CC7A4C5CF,Yes,$22501-$42500,32,$40500-$55999,Male,Single,,0,Construction,Some college,Married,,High School Diploma,White,,08087,4,07753,23231
+8657362.0,F0B31CDD82B64726B0018106CB279057,Yes,$22501-$42500,31,$25000-$40499,Male,Single,,0,Computer Tech,High School,Married,,Associate,White,,89005,4,89005,89005
+8657363.0,C955B6161D3344FCA960611500CBBD01,Yes,$42501-$80000,49,$25000-$40499,male,Divorced,,2,manager,hs,Divorced,,some college,White,,15129,5,idk,15129
+8657374.0,05E5008060014C75A52AE193939180ED,Yes,$42501-$80000,35,More than $78000,Male,Married,,1,Sales,Barchelor,Married,,Doctorate,White,,44256,5,44256,94177
+8657385.0,B5FCC55BD07F4B77A7BD5E7A9F471814,Yes,$42501-$80000,53,More than $78000,male,Other (please specify),LIving with partner,0,Operations Manager,HS diploma,Other (please specify),married and then divorced,BA,White,,06477,4,06477,06514
+8657389.0,6A34428FB835496CBF86D76C61D44CB7,Yes,More than $80000,42,$40500-$55999,Male,Married,,1,Consultant,Masters,Married,,High School Diploma,White,,94611,5,94611,95648
+8657393.0,6C178551CE7044848023A07BEFD03301,Yes,$42501-$80000,25,$25000-$40499,Male,Single,,0,Cashier,High-school Diploma,Married,,High-school Diploma,White,,30033,5,30033,30033
+8657401.0,888D6C686D534558AD323C96BDAC72EE,Yes,$42501-$80000,35,Don't know,male,Single,,0,data services,masters,Married,,bachelor's ,White,,19087,4,19301,85032
+8657433.0,FB28CA496D3F447E927A834AB1E016C2,Yes,$42501-$80000,30,$40500-$55999,male,Married,,1,technology ,bachelor's ,Married,,bachelor's ,White,,14214,3,14214,14228
+8657471.0,9244E6693A284D76B7FB99B7022B53C1,Yes,More than $80000,34,More than $78000,male,Married,,1,IT,MASTERS,Married,,MASTERS,White,,89775,3,90098,90887
+8657547.0,002D321B2814496DA6BDA3438A04F646,Yes,$42501-$80000,51,$56000-$78000,male,Married,,2,finance,ba,Married,,ba,White,,49341,4,49341,49341
