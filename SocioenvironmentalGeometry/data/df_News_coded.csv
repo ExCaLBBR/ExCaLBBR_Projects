@@ -1,0 +1,588 @@
+,Response,Response,Response,,,,,,
+Question Key,newsIntake1,newsIntake2,newsIntake3,polBias1,polBias2,polBias3,Algorithm,avgBias,sdBias
+Participant Private ID,,,,,,,,,
+7814298,Reddit,Twitter,NYT,x,x,2,1,2,x
+7814299,Twitter,Instagram,YouTube,x,x,x,1,x,x
+7814300,BBC,NPR,CNN,3,2,1,0,2,1
+7814301,twitter,bbc,washington post,x,3,2,1,2.5,0.707106781
+7814302,Twitter,Washington Post,New York Times,x,2,2,1,2,0
+7814303,NYT,Washington Post,MSNBC,2,2,1,0,1.666666667,0.577350269
+7814304,CNN,NBC,NY TIMES,1,2,2,0,1.666666667,0.577350269
+7814305,Google,Local Radio Station,Partner,x,x,x,0,x,x
+7814307,Reddit,NPR,Family,x,2,x,1,2,x
+7814308,Instagram,Twitter,CNN,x,x,1,1,1,x
+7814309,Reddit,Facebook,John Oliver and Samantha Bee's Youtube channels,x,x,x,1,x,x
+7814310,CNN,Fox News,Reddit,1,5,x,1,3,2.828427125
+7814311,reddit,Guardian,The Young Turks,x,2,1,1,1.5,0.707106781
+7814312,Reddit,Facebook,Fox News,x,x,5,1,5,x
+7814313,Twitter,CNN,USA News,x,1,x,1,1,x
+7814315,Twitter,Local News,CNN,x,x,1,1,1,x
+7814316,NY Times,Reddit,NPR,2,x,2,1,2,0
+7814318,YouTube,NY Post,Reddit,x,4,x,1,4,x
+7814320,Fox,Facebooj,CNN,5,x,1,1,3,2.828427125
+7814322,Fox News,My husband,Instagram,5,x,x,1,5,x
+7814323,Twitter,Facebook,,x,x,x,1,x,x
+7814325,Twitter,New York Times,Youtube,x,2,x,1,2,x
+7814326,Atlanta News First,CBS,Fox,x,2,5,0,3.5,2.121320344
+7814327,Facebook,Google News,Fox,x,x,5,1,5,x
+7814328,New York Times,NBC,Apple News,2,2,x,1,2,0
+7814329,fox news,fox news,fox news,5,5,5,0,5,0
+7814330,TV,Facebook,TikToc,x,x,x,1,x,x
+7814331,Twitter,Reddit,NPR,x,x,2,1,2,x
+7814332,Fox News,WSJ,Newsmax,5,x,5,0,5,0
+7814333,Face book,Twitter,New York Times,x,x,2,1,2,x
+7814336,Twitter,The Guardian,BBC,x,2,3,1,2.5,0.707106781
+7814337,Twitter,MSNBC,Facebook,x,1,x,1,1,x
+7814339,Reddit,Dailymail,CNN,x,5,2,1,3.5,2.121320344
+7814340,drudge,cnn,msnbc,3,1,1,0,1.666666667,1.154700538
+7814341,fox,msnbc,msn,5,1,1,0,2.333333333,2.309401077
+7814342,OAN,NewsMax,The Daily Wire,5,5,5,0,5,0
+7814345,CNN,NBC,Orange County Register,1,2,4,0,2.333333333,1.527525232
+7814346,Tiktok,Reddit,Facebook,x,x,x,1,x,x
+7814349,Cnn,Hawaii News Now,Facebook,1,3,x,1,2,1.414213562
+7814350,BBC,CNN,Fox News,3,1,5,0,3,2
+7814351,NPR,Instagram,Facebook,2,x,x,1,2,x
+7814352,Fox,CNN,Twitter,5,1,x,1,3,2.828427125
+7814353,Tik Tok,No Other,No Other,x,x,x,1,x,x
+7814356,NPR,BBC,NYTimes,2,3,2,0,2.333333333,0.577350269
+7814362,instagram,CNN,Reddit,x,1,x,1,1,x
+7814364,cnn,reddit,new york times,1,x,2,1,1.5,0.707106781
+7814365,MSNBC,SmartNews app,PBS,1,x,2,0,1.5,0.707106781
+7814368,Telegram,Citizens Free Press,Twitter,3,x,x,1,3,x
+7814369,FB,IN,CNN,x,x,1,1,1,x
+7814372,NBC,Drudge,National Catholic Register,2,3,5,0,3.333333333,1.527525232
+7814375,Online news sites,Social media,Television news programs,x,x,x,1,x,x
+7814378,fox news,local station wpxi,newspaper local,5,x,x,0,5,x
+7814381,Twitter,New York Times,Fox News,x,2,5,1,3.5,2.121320344
+7814384,The Washington Post,Vox,Slate,2,1,1,0,1.333333333,0.577350269
+7814385,Word of mouth,Facebook,Reddit,x,x,x,1,x,x
+7814387,twitter,cnn,pbs,x,1,2,1,1.5,0.707106781
+7814398,Twitter,"New York Times,","Fox News,",x,2,5,1,3.5,2.121320344
+7814400,facebook,channel 12,msn news,x,x,1,1,1,x
+7814402,CNN,Fox News,Twitter,1,5,x,1,3,2.828427125
+7814403,CNN,Reuters,Twitter,1,3,x,1,2,1.414213562
+7814404,Twitter,CNN,Reddit,x,1,x,1,1,x
+7814405,instagram ,fox news,facebook ,x,5,x,1,5,x
+7814407,Twitter,local news,podcasts,x,x,x,1,x,x
+7814408,Instagram,CNN,News 12,x,1,x,1,1,x
+7814413,reddit,new york times,washington post,x,2,2,1,2,0
+7814414,Wall Street Journal,The Guardian,Twitter,3,2,x,1,2.5,0.707106781
+7814415,cnn,fox,reddit,1,5,x,1,3,2.828427125
+7814416,Washington Post,Reuters,Reddit,2,3,x,1,2.5,0.707106781
+7814422,Facebook,Youtube,Instagram,x,x,x,1,x,x
+7814426,npr,washington times,buzzfeed,2,2,1,0,1.666666667,0.577350269
+7814431,Facebook,Fox,Google,x,5,x,1,5,x
+7814432,Fox News,Facebook,Joe Roegan,5,x,3,1,4,1.414213562
+7814437,AP News,,,2,x,x,0,2,x
+7814438,fox,tiktok,facebook,5,x,x,1,5,x
+7814441,publicities,attrocities,publications,x,x,x,0,x,x
+7814446,twitter,reddit,new york times,x,x,2,1,2,x
+7814447,CNN,Reddit,ABCnews,1,x,2,1,1.5,0.707106781
+7814455,Twitter,New York,CNN,x,2,1,1,1.5,0.707106781
+7814468,Associated Press,BBC,Podcasts,2,3,x,0,2.5,0.707106781
+7814476,Politico,NPR,CNN,2,2,1,0,1.666666667,0.577350269
+7814479,cnn,abc,cbs,1,2,2,0,1.666666667,0.577350269
+7814502,Twitter,"New York Times,",Facebook,x,2,x,1,2,x
+7814508,New York Times,CNN,fOX NEWS,2,1,5,0,2.666666667,2.081665999
+7814513,CNN,Reddit,BBC news,1,x,3,1,2,1.414213562
+7814518,Twitter, New York Times,CNN,x,2,1,1,1.5,0.707106781
+7814533,Reddit,Facebook,Youtube,x,x,x,1,x,x
+7814535,New York Times,CNN,Twitter,2,1,x,1,1.5,0.707106781
+7814544,Apple News,Youtube,My family,x,x,x,1,x,x
+7814545,David pakman,The young turks,RIng of fire,x,1,x,0,1,x
+7814552,Fox News,Fox Nation,Caravan To Midnight podcast,5,x,x,0,5,x
+7814555,reddit,reddit,"reddit (reddit links to other sites, and is the only one I use)",x,x,x,1,x,x
+7814568,Apple News,Reddit,Tiktok,x,x,x,1,x,x
+7814571,Twitter,VICE News,Al Jazeer,x,1,2,1,1.5,0.707106781
+7814577,abc,local radio stations,public broadcasting stations,2,x,x,0,2,x
+7814579,CNN,NPR,Yahoo,2,2,x,1,2,0
+7814585,Fox,CNN,new york times,5,1,2,0,2.666666667,2.081665999
+7814587,New York Times,CNN,Fox News,2,1,5,0,2.666666667,2.081665999
+7814588,CBS,ABC,Reddit,2,2,x,1,2,0
+7814598,CNN,WAPO,Reuters,1,x,3,0,2,1.414213562
+7814600,CNN online,MSNBC online,YouTube,1,1,x,1,1,0
+7814620,Reddit,CNN,Twitter,x,1,x,1,1,x
+7814630,Fox News,New York Times,CNN,5,2,1,0,2.666666667,2.081665999
+7814631,Twitter,Facebook,Instagram,x,x,x,1,x,x
+7814662,nbc,abc,cnn,2,2,1,0,1.666666667,0.577350269
+7814668,cnn,fox,reddit,1,5,x,1,3,2.828427125
+7814673,Twitter,New York Times,Washington Post,x,2,2,1,2,0
+7814683,publicities,publications,conversation,x,x,x,0,x,x
+7814698,Twitch,Youtube,Reddit,x,x,x,1,x,x
+7814707,Local Television News,Google News,UTube ,x,x,x,1,x,x
+7814720,us facebook,fox news,social media,x,5,x,1,5,x
+7814721,CNN,Twitter,Google,1,x,x,1,1,x
+7814731,NBC,Local News,Internet,2,x,x,1,2,x
+7814734,Microsoft Edge News,CNN,PBS News hour,x,x,2,1,2,x
+7814763,MSNBC,CNN ,YOU TUBE,1,1,x,1,1,0
+7814770,New York Times,The Atlantic,CNN,2,1,1,0,1.333333333,0.577350269
+7814793,yahoo,msn,nyt,x,1,2,1,1.5,0.707106781
+7814830,CNN,Reddit,Twitter,1,x,x,1,1,x
+7814869,Reddit,Facebook,Youtube,x,x,x,1,x,x
+7814887,publicities,social media,publications,x,x,x,1,x,x
+7814893,Crooked Media,CNN,Twitter,x,1,x,1,1,x
+7814895,Twitter,CNN,NBC,x,1,2,1,1.5,0.707106781
+7814901,NY Times,Washington Post,Guardian,2,2,2,0,2,0
+7814925,CNN,NPR,New York Times,1,2,2,0,1.666666667,0.577350269
+7814927,Facebook,Fox,NBC,x,5,2,1,3.5,2.121320344
+7814932,cnn,twitter,facebook,1,x,x,1,1,x
+7814937,Twitter,Facebook,CNN,x,x,1,1,1,x
+7814938,UnderthedeskNews tiktok,Reddit,local news,x,x,x,1,x,x
+7814945,WMBD,Fox News,Yahoo News,x,5,x,1,5,x
+7814950,Washington Post,Reddit,Apple News,2,x,x,1,2,x
+7814956,Twitter,Chicago sun times,washington post,x,2,2,1,2,0
+7814957,Reddit,Local News,New York TImes,x,x,2,1,2,x
+7814960,Podcast,Twitter,Instagram,x,x,x,1,x,x
+7814964,aol mail,youtubers,facebook,x,x,x,1,x,x
+7814966,fox news,you tube,reddit,5,x,x,1,5,x
+7814967,NPR,Twitter,local newspaper,2,x,x,1,2,x
+7814968,ABC,NBC,CNN,2,2,1,0,1.666666667,0.577350269
+7814983,Instagram,Reddit,Joe Rogan Podcast,x,x,3,1,3,x
+7814989,Fox News ,News Break app,Cnn,5,x,1,0,3,2.828427125
+7814996,foxnews,breitbart,oan,5,5,5,0,5,0
+7815000,MSNBC,PBS,CNN,1,2,1,0,1.333333333,0.577350269
+7815005,NPR,CBS,New York Times,2,2,2,0,2,0
+7815008,New York Times,ABC news,CNN,2,2,1,0,1.666666667,0.577350269
+7815011,NBC,Youtube,Reddit,2,x,x,1,2,x
+7815032,Youtube,Google News,Facebook,x,x,x,1,x,x
+7815066,NPR,CNN,NEW YORK TIMES,2,1,2,0,1.666666667,0.577350269
+7815203,cnn,nbc,abc,1,2,2,0,1.666666667,0.577350269
+7815271,Substack,Reddit,ABC Bay Area News (local),x,x,2,0,2,x
+7815323,CNN,Twitter,Fox News,1,x,5,1,3,2.828427125
+7822519,twitter,facebook,reddit,x,x,x,1,x,x
+7855753,NPR,Microsoft News,Google News,2,x,x,1,2,x
+7855755,Fox News,Wall Street Journal,Reddit,5,3,x,1,4,1.414213562
+7855760,CNN,MSNBC,Reddit,1,1,x,1,1,0
+7855765,Instagram,CNN,The New York Times,x,1,2,1,1.5,0.707106781
+7855769,Twitter,Politifact,Sciencedaily,x,2,x,1,2,x
+7855774,Yahoo,NBC ,CNN,x,2,1,1,1.5,0.707106781
+7855775,MSN News,Fox News,Twitter,1,5,x,1,3,2.828427125
+7855782,Reddit,MSNBC,TikTok ,x,1,x,1,1,x
+7855783,twitter,yahoo,google,x,x,x,1,x,x
+7855788,Twitter,CNN,New York Times,x,1,2,1,1.5,0.707106781
+7855789,twitter ,fox,washington post,x,5,2,1,3.5,2.121320344
+7855794,NPR,Twitter,New York times,2,x,2,1,2,0
+7855799,The Young Turks,David Pakman,The Majority Report,1,x,x,0,1,x
+7855801,NPR,Facebook,CNN,2,x,1,1,1.5,0.707106781
+7855804,twitter,youtube,brave search,x,x,x,1,x,x
+7855806,NPR,MSNBC,BBC,2,1,3,0,2,1
+7855807,Reddit,NPR,ReasonTV,x,1,x,1,1,x
+7855809,Fox,Reddit,Washington Post,5,x,2,1,3.5,2.121320344
+7855812,NPR,BBC,Local/Regional,2,3,x,0,2.5,0.707106781
+7855815,Twitter,"New York Times,",Fox News,x,2,5,1,3.5,2.121320344
+7855816,NPR,Twitter,New York Times,2,x,2,1,2,0
+7855818,Fox news,CNN,Local cable,5,1,x,0,3,2.828427125
+7855819,CNN,Local News,MSNBC,1,x,1,0,1,0
+7855820,CNN,NYT,Google news,1,2,x,1,1.5,0.707106781
+7855823,twitter,fox news,youtube,x,5,x,1,5,x
+7855828,BBC`,CNBC,Reddit,3,3,x,1,3,0
+7855840,CNN,BBC,Twitter,1,3,x,1,2,1.414213562
+7855853,Fox News,New York Times,Twitter,5,2,x,1,3.5,2.121320344
+7855858,fox news cable,fox business news,fox news internet,5,x,5,0,5,0
+7855862,CNN,MSNBC,ABC News,2,1,2,0,1.666666667,0.577350269
+7855869,bbc,fox,npr,3,5,2,0,3.333333333,1.527525232
+7855871,NPR,CNN,Facebook,2,1,x,1,1.5,0.707106781
+7855873,Twitter,New york Times,CNN,x,2,1,1,1.5,0.707106781
+7855878,Fox News,CNN,Facebook,5,1,x,1,3,2.828427125
+7855879,twitter,fox news,whatsapp,x,5,x,1,5,x
+7855881,Reddit,Youtube,CNN,x,x,1,1,1,x
+7855887,BBC,Fox News,CNN,3,5,1,0,3,2
+7855895,Fox News ,CNN,New York Times,5,1,2,0,2.666666667,2.081665999
+7855902,YouTube,TMZ,Reddit,x,x,x,1,x,x
+7855911,Bloomberg.com,Zerohedge.com,Foxnews.com,2,4,5,0,3.666666667,1.527525232
+7855930,reddit,MSN,local news,x,1,x,1,1,x
+7855939,facebook,reddit,mturk,x,x,x,1,x,x
+7855961,Reddit,Fox News,RT,x,5,x,1,5,x
+7855963,social media,friends,family,x,x,x,1,x,x
+7855969,cbs nes streamed,abc news live streamed,Sky news streamed,2,2,x,0,2,0
+7855977, Twitter,Reddit,CNN,x,x,1,1,1,x
+7855978,Youtube,Twitter,Infowars.com,x,x,5,1,5,x
+7855981,Facebook,Instagram,Youtube,x,x,x,1,x,x
+7856014,instagram,twitter,facebook,x,x,x,1,x,x
+7856016,Reddit,CNN,New York Times,x,1,2,1,1.5,0.707106781
+7856021,MSNBC,New York Times,Twitter,1,2,x,1,1.5,0.707106781
+7856044,Local newspaper,Local TV newscasts,USA Today,x,x,2,0,2,x
+7856054,MSNBC,CNN,PBS,1,1,2,0,1.333333333,0.577350269
+7856075,Reddit,Associated Press,Reuters,x,2,3,1,2.5,0.707106781
+7856097,Fox News,World Street Journal,Podcasts,5,x,x,0,5,x
+7856114,Zerohedge,forums,local news channels,2,x,x,0,2,x
+7856134,Reddit,Facebook,Twitter,x,x,x,1,x,x
+7856139,Breakthrough News,Reddit,Jacobin,x,x,1,1,1,x
+7856141,local channel,local paper,family and friends,x,x,x,0,x,x
+7856149,Reddit,Apple News,Podcasts,x,x,x,1,x,x
+7856152,drudge,reason,all sides,3,x,x,0,3,x
+7856154,Twitter,Reddit,Msnbc,x,x,1,1,1,x
+7856160,Infowars.com,NaturalNews.com,Citizen Free Press,5,x,x,0,5,x
+7856174,Google,Twitter,Facebook,x,x,x,1,x,x
+7856180,NBC,New York Times,Associated Press,2,2,2,0,2,0
+7856185,Google News,YouTube,Fox,x,x,5,1,5,x
+7856191,Twitter,Breitbart,Facebook,x,5,x,1,5,x
+7856192,CNN,New York Times,Twitter,1,2,x,1,1.5,0.707106781
+7856195,Twitter,instragram,facebook,x,x,x,1,x,x
+7856202,Fox,CNN,Youtube,5,1,x,1,3,2.828427125
+7856209,reddit,youtube,local news channel,x,x,x,1,x,x
+7856218,Youtube,Podcasts,Twitter,x,x,x,1,x,x
+7856222,Fox News,Reddit,Twitter,5,x,x,1,5,x
+7856224,twitter,caspian report youtube channel,the japan times,x,x,3,1,3,x
+7856235,Reddit,Local Channel 2,The Business Report,x,x,x,1,x,x
+7856241,CNN,reddit,Washington Post,1,x,2,1,1.5,0.707106781
+7856242,cnn,fox news,reddit,1,5,x,1,3,2.828427125
+7856245,Fox news,NBC,Reddit,5,2,x,1,3.5,2.121320344
+7856249,Reuters,Google News,YouTube,3,x,x,1,3,x
+7856251,Twitter,Reddit,Fox News,x,x,5,1,5,x
+7856254,Google,Twitter,,x,x,x,1,x,x
+7856257,Google,Twitter,Reddit,x,x,x,1,x,x
+7856259,NPR,Facebook,Snapchat,2,x,x,1,2,x
+7856265,Twitter,Fox News,Facebook,x,5,x,1,5,x
+7856281,Twitter,CNN,Reddit,x,1,x,1,1,x
+7856289,youtube,cnn,reddit,x,1,x,1,1,x
+7856294,Newsmax,Breitbart,Citizen Free Press,5,5,x,0,5,0
+7856311,Twitter,Fox News,Breitbart,x,5,5,1,5,0
+7856315,twitter,youtube,facebook,x,x,x,1,x,x
+7856321,reddit,google news,new york times,x,x,2,1,2,x
+7856328,Twitter,Fox News,CNN,x,5,1,1,3,2.828427125
+7856347,NBO,CNN,Reddit,x,1,x,1,1,x
+7856357,fox news,reddit,cnn,5,x,1,1,3,2.828427125
+7856361,Reddit,Washington Post,NPR,x,2,2,1,2,0
+7856362,Reddit,Youtube,FOXs,x,x,5,1,5,x
+7856387,Facebook,Reddit,Twitter,x,x,x,1,x,x
+7856394,NBC,NPR,SDPB,2,2,x,0,2,0
+7856398,The Guardian,BBC,Reuters,2,3,3,0,2.666666667,0.577350269
+7856409,CNN,Fox News,BBC,1,5,3,0,3,2
+7856413,FOX,BBC,Television,5,3,x,0,4,1.414213562
+7856439,Twitter,Fox,CNN,x,5,1,1,3,2.828427125
+7856448,Twitter,Gab,Townhall,x,x,5,1,5,x
+7856469,AP,Reuters,Defector,2,3,x,0,2.5,0.707106781
+7856489,New York Times,The Wall Street Journal,NBC News,2,3,2,0,2.333333333,0.577350269
+7856491,CNN,MSNBC,Twitter,1,1,x,1,1,0
+7856516,CNN,Twitter,Fox News,1,x,5,1,3,2.828427125
+7856518,Reddit,Twitter,Facebook,x,x,x,1,x,x
+7856530,reddit,twitter,cnn,x,x,1,1,1,x
+7856539,Twitter,New York Times,Fox News,x,2,5,1,3.5,2.121320344
+7856565,Fox News,New York Times,CNN,5,2,1,0,2.666666667,2.081665999
+7856587,reddit,youtube,dailymail,x,x,5,1,5,x
+7856591,Reddit,Youtube,Conversation with grandmother,x,x,x,1,x,x
+7856603,Twitter,Instagram,Reddit,x,x,x,1,x,x
+7856614,Youtube,Reddit,Twitter,x,x,x,1,x,x
+7856618,CNN,NBC,Google,1,2,x,1,1.5,0.707106781
+7856626,twitter,fox business,individual investigative journalists ,x,x,x,1,x,x
+7856645,Twitter,Fox News,ABC News,x,5,2,1,3.5,2.121320344
+7856688,fox news ,twitter,newyork times,5,x,2,1,3.5,2.121320344
+7856689,Twitter,Reddit,Google News,x,x,x,1,x,x
+7856699,Twitter,YouTube,OAN,x,x,5,1,5,x
+7856701,Yahoo!,Twitter,ABC News,x,x,2,1,2,x
+7856719,MSNBC,Reddit,Youtube,1,x,x,1,1,x
+7856751,Reddit,PBS Newshour,Some More News https://www.youtube.com/channel/UCvlj0IzjSnNoduQF0l3VGng,x,2,x,0,2,x
+7856790,nbc,fox news,local news channel,2,5,x,0,3.5,2.121320344
+7856839,CNN,Fox,Twitter,1,5,x,1,3,2.828427125
+7856840,facebook,cnn,twitter,x,1,x,1,1,x
+7856862,apnews.com,bbc.com,,x,3,x,0,3,x
+7856863,cnn,msnbc,internet,1,1,x,1,1,0
+7856883,"Twitter (I make lists of reputable, trustworthe news outlets and journalists)",,,x,x,x,1,x,x
+7856919,Reddit,The Guardian,NPR,x,2,2,1,2,0
+7856942,Twitter,Facebook,CNN,x,x,1,1,1,x
+7856953,Reddit,Marketwatch,Zerohedge,x,3,4,1,3.5,0.707106781
+7856957,MSNBC,Reddit,Youtube,1,x,x,1,1,x
+7856959,Restera,Twitter,YouTube,x,x,x,1,x,x
+7856968,Facebook,MSNBC,Fox News,x,1,5,1,3,2.828427125
+7856980,Fox,CNN,Revolver.news,5,1,5,0,3.666666667,2.309401077
+7857102,Yahoo! News,Google News,Reddit,x,x,x,1,x,x
+7857188,CNN,NEWYORK TIMES,IBM,1,2,x,0,1.5,0.707106781
+7857204,Associated Press,Nature,Ars Technica,2,3,3,0,2.666666667,0.577350269
+7857493,Twitter,Youtube,Facebook,x,x,x,1,x,x
+7857679,NYT,WAPO,PBS,2,2,2,0,2,0
+7857715,Reddit,Google News,USA TODAY,x,x,2,1,2,x
+7857731,Fox News,NPR,Twitter,5,2,x,1,3.5,2.121320344
+7857858,Podcasts,Some More News,Twitter,x,x,x,1,x,x
+7857968,CNN,MSNBC,ABC,1,1,2,0,1.333333333,0.577350269
+7858184,you tube,Twitter,Fox News,x,x,5,1,5,x
+7979592,local news,Reddit,Google,x,x,x,1,x,x
+7979596,Fox news,BBC,CNN,5,3,1,0,3,2
+7979598,Twitter,Local news,Reddit,x,x,x,1,x,x
+7979603,CNN,Twitter,BBC,1,x,3,1,2,1.414213562
+7979605,twitter,podcasts,CNN,x,x,1,1,1,x
+7979606,ABC News,CNN,MSNBC,2,1,1,0,1.333333333,0.577350269
+7979607,Facebook,CNN,ABC,x,1,2,1,1.5,0.707106781
+7979611,CNN,New York Times,Social Media,1,2,x,1,1.5,0.707106781
+7979612,Twitter ,Reddit ,Discord,x,x,x,1,x,x
+7979621,Reddit,New York Times,Washington Post,x,2,2,1,2,0
+7979626,MSN,CNN,Google,1,1,x,1,1,0
+7979637,CNN,ABC,NBC,2,2,2,0,2,0
+7979642,Linkein,Pintrest,Twitter,x,x,x,1,x,x
+7979646,Yahoo News,Star Tribune,Local news channels,x,2,x,1,2,x
+7979648,ABC News,CNN,Fox News,2,2,5,0,3,1.732050808
+7979655,Instagram,Reddit,Fox News,x,x,5,1,5,x
+7979662,Yes,Yes,YES,x,x,x,0,x,x
+7979667,instagram,twitter,CNN,x,x,1,1,1,x
+7979668,Local News,NPR,NBC,x,2,2,0,2,0
+7979671,Twitter,PBS,Washington Post,x,2,2,1,2,0
+7979673,tiwtter,cnn,times,x,1,2,1,1.5,0.707106781
+7979683,The most popular social media platforms in the U.S. in 2022.,It is one of the greatest means of communication between people and the world.,"The three types of media are commonly known as news media, social media, and web media, but you might also see them referred to as earned media, shared media, and owned media",x,x,x,0,x,x
+7979685,KATV,World News with David Muir,KARK,x,x,3,0,3,x
+7979711,Google News,MSN News,Reddit,x,1,x,1,1,x
+7979720,CNN,Fox,Google,1,5,x,1,3,2.828427125
+7979723,CNN,Reuters,Twitter,1,3,x,1,2,1.414213562
+7979724,CNN,NBC,Twitter,1,2,x,1,1.5,0.707106781
+7979729,google news ,apple news,,x,x,x,1,x,x
+7979733,CNN,Twitter,Online Publications,1,x,x,1,1,x
+7979762,Instagram,CNN,Facebook,x,1,x,1,1,x
+7979765,Twitter,CNN,New York Times,x,1,2,1,1.5,0.707106781
+7979770,facebook,instagram,twitter,x,x,x,1,x,x
+7979775,Twitter,YouTube,Spectrum News ,x,x,x,1,x,x
+7979798,Local news,Fox News,AP,x,5,2,0,3.5,2.121320344
+7979801,Fox news ,Twitter,CNN,5,x,1,1,3,2.828427125
+7979803,cnn,young turks,msnbc,1,1,1,0,1,0
+7979804,twitter,facebook,instagram,x,x,x,1,x,x
+7979808,Twitter,Reddit,BBC News,x,x,3,1,3,x
+7979818,MSNBC,CNN,Reddit,1,1,x,1,1,0
+7979820,CNN,Fox News,Instagram,1,5,x,1,3,2.828427125
+7979843,youtube,reddit,msnbc,x,x,1,1,1,x
+7979846,youtube,google,new york times,x,x,2,1,2,x
+7979849,Twitter,CNN,New York Times,x,1,2,1,1.5,0.707106781
+7979850,New York Times,WAPO,Mediaite,2,2,x,0,2,0
+7979870,youtube,cbs,abc,x,2,2,1,2,0
+7979871,twitter,cnn,bbc,x,1,3,1,2,1.414213562
+7979890,SPORTS,SCIENCE,POLITICAL,x,x,x,0,x,x
+7979891,CNN,Instagram,Fox 5,1,x,5,1,3,2.828427125
+7979926,Google news,Fox News,New York Times,x,x,2,1,2,x
+7979931,twitter,facebook,instagram,x,x,x,1,x,x
+7979937,"The three types of media are commonly known as news media, social media, and web media, but you might also see them referred to as earned media, shared media, and owned media","As a major source of trending internet conversations, Twitter is the go-to destination for people who want to be entertained.",The most popular social media platforms in the U.S. in 2022,x,x,x,1,x,x
+7979944,msn,google news,TWITTER,1,x,x,1,1,x
+7979953,Fox News,Wall Street Journal,Reddit,5,3,x,1,4,1.414213562
+7979971,CNN,Aljazeera,Twitter,1,2,x,1,1.5,0.707106781
+7980026,NPR News,NBC,Washington post ,2,2,2,0,2,0
+7980036,Twitter,CNN,ALJAZEERA,x,1,2,1,1.5,0.707106781
+7980043,Twitter,CNN,Fox,x,1,5,1,3,2.828427125
+7980046,Fox news,Twitter,reddit,5,x,x,1,5,x
+7980081,cnn,local news,yahoo.con,1,x,x,1,1,x
+7980087, CNN,MSNBC,New York Times ,1,1,2,0,1.333333333,0.577350269
+7980112,Twitter,Reddit,MSNBC,x,x,1,1,1,x
+7980119,Facebook,Twiter,Cnn,x,x,1,1,1,x
+7980122,Reddit ,Twitter,Family and friends,x,x,x,1,x,x
+7980145,Twitter,CNN,Reddit,x,1,x,1,1,x
+7980151,CNN,Google,Washington Post,1,x,2,1,1.5,0.707106781
+7980213,Twitter,CNN,Reuters,x,1,3,1,2,1.414213562
+7980225,Fox4 news,CNN,Facebook,5,1,x,1,3,2.828427125
+7980275,Cnn,Ny times,SF Chronicle ,1,2,x,0,1.5,0.707106781
+7980277,cnn,msnbc,google news,1,1,x,1,1,0
+7980278,Twitter,CNN,New York Times,x,1,2,1,1.5,0.707106781
+7980285,local news,CNN,npr,x,1,2,0,1.5,0.707106781
+7980292,CNN,google news,fox news,1,x,5,1,3,2.828427125
+7980302,Wall Street Journal,CNN,Twitter,3,1,x,1,2,1.414213562
+7980306,YOUTUBE,NEW PAPER,WHATSAPP,x,x,x,1,x,x
+7980307,TV,Internet,Word of mouth,x,x,x,1,x,x
+7980314,Cnn,google,,1,x,x,1,1,x
+7980315,CNN,YouTube,Family,1,x,x,1,1,x
+7980333,fox,cbs,cnn,5,2,1,0,2.666666667,2.081665999
+7980355,NBC,Fox,ABC,2,5,2,0,3,1.732050808
+7980409,abc,google news,yahoo news,2,x,x,1,2,x
+7980415,YouTube ,CNN ,Fox,x,1,5,1,3,2.828427125
+7980458,CNN,ABC,Instagram,1,2,x,1,1.5,0.707106781
+7980482,CNN,Twitter,Instagram,1,x,x,1,1,x
+7980593,TikTok,Youtube,Reddit,x,x,x,1,x,x
+7980594,Twitter,Youtube,CNN,x,x,1,1,1,x
+7980624,Facebook,Abc,CNN,x,2,1,1,1.5,0.707106781
+7980639,MSNBC,Twitter,New York Times,1,x,2,1,1.5,0.707106781
+7980654,Twitter,Reddit,4chan,x,x,x,1,x,x
+7980659,Youtube ,New Nation,MSNBC,x,x,1,1,1,x
+7980668,Youtube,CNN,WREG,x,1,x,1,1,x
+7980685,insta,cnn,wood,x,1,x,1,1,x
+7980687,Facebook,Cnn,CBS,x,1,2,1,1.5,0.707106781
+7980692,Twitter,Facebook,MSNBC,x,x,1,1,1,x
+7980715,CNN,New York Times,MSNBC,1,2,1,0,1.333333333,0.577350269
+7980716,Twitter,Local Channel,Fox news,x,x,5,1,5,x
+7980721,Yahoo,Google,Facebook,x,x,x,1,x,x
+7980729,Yahoo ,CNN,Google,x,1,x,1,1,x
+7980747,Twitter,Fox News,Al-Jazeera,x,5,2,1,3.5,2.121320344
+7980769,Reddit,New York Times,Facebook,x,2,x,1,2,x
+7980770,FOX NEWS,CNN,GOOGLE,5,1,x,1,3,2.828427125
+7980795,Twitter,The Guardian,Washington Post,x,2,2,1,2,0
+7980828,CNN,MSNBC,FOX,1,1,5,0,2.333333333,2.309401077
+7980845,CNN,Twitter,Social media,1,x,x,1,1,x
+7980854,Fox News,,,5,x,x,0,5,x
+7980867,Local news stations,Newspaper,Computer,x,x,x,0,x,x
+7980877,REDDIT,MSNBC,CNN,x,1,1,1,1,0
+7980914,CNN,MSNBC,The Breakfast Club,1,1,x,0,1,0
+7980940,New York Times,Fox News,Reddit,2,5,x,1,3.5,2.121320344
+7980949,Twitter,FACEBOOK,NEWS PAPER,x,x,x,1,x,x
+7980960,twitter,nwt,cnn,x,x,1,1,1,x
+7980968,Twitter,FACE BOOK,NEWS PAPER,x,x,x,1,x,x
+7980994,facebook,cnn,fox news,x,1,5,1,3,2.828427125
+7981038,Wall Street Journal,Fox News,Instagram,3,5,x,1,4,1.414213562
+7981047,fox,cnn,yahoo,5,1,x,1,3,2.828427125
+7981070,CNN,Local News,Some Internet sites,1,x,x,0,1,x
+7981074,Youtube,Twitter,Google,x,x,x,1,x,x
+7981083,Local News,ABC News,Instagram,x,2,x,1,2,x
+7981093,You Tube,Daily Mail,Alternative News,x,5,x,1,5,x
+7981120,yes,wayto susues,fox,x,x,5,0,5,x
+7981156,twitter,tiktok,instagram,x,x,x,1,x,x
+7981158,Newsbreak ,Instagram ,Fox News,x,x,5,1,5,x
+7981180,Instagram,Fox News,CNN,x,5,1,1,3,2.828427125
+7981182,CNN,FOX,ABC,1,5,2,0,2.666666667,2.081665999
+7981186,Huffpost,Yahoo News,CNN,1,x,1,1,1,0
+7981194,Instagram,Twitter,YouTube,x,x,x,1,x,x
+7981196,Twitter,TikTok,Facebook,x,x,x,1,x,x
+7981216,NEWS,TWITTER,FACEBOOK,x,x,x,1,x,x
+7981219,yahoo,cnn,abc world news,x,1,2,1,1.5,0.707106781
+7981236,Fox News,CNN,Twitter,5,1,x,1,3,2.828427125
+7981256,Twitter,Instagram,Youtube,x,x,x,1,x,x
+7981263,CNN,MSNBC,New York Times,1,1,2,0,1.333333333,0.577350269
+7981270,"There are three kinds of media: the internet, broadcast media, and printed media.","Magazines, Trade publications, and Print Advertisements.","Identifying accurate and verifiable news content can be a complex task, given the nuances between different types of sources. ",x,x,x,0,x,x
+7981277,cnn,social media twitter,Local radio,1,x,x,1,1,x
+7981302,NPR,CNN,Google,2,1,x,1,1.5,0.707106781
+7981336,MSNBC,CNN,TikTok,1,1,x,1,1,0
+7981346,MSNBC,CNN,Washington Insider,1,1,x,0,1,0
+7981362,Local News,Khou Houston,CNN,x,x,1,0,1,x
+7981392,local news,google,twitter,x,x,x,1,x,x
+7981475,abc,youtube,tiktok,2,x,x,1,2,x
+7981482,CNN,MSNBC,Fox News,1,1,5,0,2.333333333,2.309401077
+7981492,Reddit,Instagram,CNN,x,x,1,1,1,x
+7981548,CNNN,Wall street,Local news outlet,x,3,x,0,3,x
+7981631,NBC,CNN,CBS,2,1,2,0,1.666666667,0.577350269
+7981720,Reddit,Youtube,Twitter,x,x,x,1,x,x
+7981721,Twitter,CNN,Journals,x,1,x,1,1,x
+7981725,cnn,wall street journal,new york times,1,3,2,0,2,1
+7981728,Local News Television Channel,Social Media,Local Newspaper,x,x,x,1,x,x
+7981755,cnn,twitter,Aljazera ,1,x,2,1,1.5,0.707106781
+7981846,wect.com,wway.com,Google,x,x,x,1,x,x
+7981990,Facebook,CNN,Twitter,x,1,x,1,1,x
+7982642,Social media,Television,Facebook,x,x,x,1,x,x
+7983733,ABC news ,Cnn,Vice,2,1,1,0,1.333333333,0.577350269
+7983788,Youtube,Reddit,Facebook,x,x,x,1,x,x
+7984427,CNN,Aljazeera,Twitter,1,2,x,1,1.5,0.707106781
+7984742,Social media,Youtube,Fox News,x,x,5,1,5,x
+7985468,CNN,Washington Post,Atlanta Journal Constitution,1,2,2,0,1.666666667,0.577350269
+7985586,NPR,local news,YouTube,2,x,x,1,2,x
+7985880,KRON4,MSNBC,PBS News Hour,x,1,2,0,1.5,0.707106781
+7985969,NPR,PBS,ESPN,2,2,2,0,2,0
+7986375,Fox News,CNN,Local News / Radio,5,1,x,0,3,2.828427125
+7986592,twitter,msnbc,local new,x,1,x,1,1,x
+7986633,Twitter,Google News,Talk Radio,x,x,x,1,x,x
+7986669,Youtubr,Fox ,Online articles,x,5,x,1,5,x
+7986671,CNN,FOX,NBC,1,5,3,0,3,2
+7986952,Twitter,Instagram,TV,x,x,x,1,x,x
+7987028,twitter,cnn,reddit,x,1,x,1,1,x
+7987063,WRAL,NPR,Reddit,x,2,x,1,2,x
+7987078,BBC,CNN,New York Times/Washington Post,3,1,2,0,2,1
+7987159,cnn,twitter,local news,1,x,x,1,1,x
+7987299,Breaking Points,CNN,Facebook,x,1,x,1,1,x
+7987305,twitter,cnn,msnbc,x,1,1,1,1,0
+7987517,CNN,Twitter,Fox News,1,x,5,1,3,2.828427125
+7987587,youtube,google,yahoo,x,x,x,1,x,x
+7987655,Facebook,Youtube,cnn,x,x,1,1,1,x
+7987708,Google,CNN,Local News,x,1,x,1,1,x
+7988059,Reddit,ABC News,NBC News,x,2,2,1,2,0
+7988066,Fox News,Newsmax,NY TImes,5,5,2,0,4,1.732050808
+7988258,New York Times,Local TV news,Youtube spotlights,2,x,x,1,2,x
+7988698,Youtube,Google,Metrozone,x,x,x,1,x,x
+7988769,FACEBOOK,INSTAGRAM,CNN,x,x,1,1,1,x
+7988877,CNN,Twitter,New York Times,x,x,2,1,2,x
+7989142,instargram,bing,word of mouth,x,x,x,1,x,x
+7989197,Rawstory,Reddit,Washington Post,x,1,2,1,1.5,0.707106781
+7989292,MSNBC,SMART NEWS,NEWS BREAK,1,x,x,0,1,x
+7989363,BBC,Reddit,Youtube,3,x,x,1,3,x
+7989751,MSNBC,CNN,CBS,1,1,2,0,1.333333333,0.577350269
+7989978,MSNBC,CNN,,1,1,x,0,1,0
+7990104,MSNBC,Local news WTAE,Twitter,1,x,x,1,1,x
+7990203,Reddit,Youtube,Washington Post,x,x,2,1,2,x
+7990277,msnbc,facebook,twitter,1,x,x,1,1,x
+7990771,AP News,Local TV News,Google News,2,x,x,1,2,x
+7990834,CNN,Fox News,CBS,1,5,2,0,2.666666667,2.081665999
+7990894,Twitter,CNN,Fox News,x,1,5,1,3,2.828427125
+7990946,CNN,Local news tv,Online forums,1,x,x,0,1,x
+7992023,NBC News,Twitter,CBS,2,x,2,1,2,0
+7992383,kbtx,google,facebook,x,x,x,1,x,x
+7993897,CNN,CNBN,FOX,1,x,5,0,3,2.828427125
+7995024,Apple News ,Google News ,NowThisNews,x,x,x,1,x,x
+7995192,yahoo news,youtube,na,x,x,x,1,x,x
+7995450,Facebook,Twitter,NPR,x,x,2,1,2,x
+7995589,Youtube,TV stations,Twitter,x,x,x,1,x,x
+7995967,Twitter,Instagram,TikTok,x,x,x,1,x,x
+7996111,CBS,Twitter,Facebook,2,x,x,1,2,x
+7996376,Twitter,Instagram,Youtube,x,x,x,1,x,x
+7996531,Yahoo News,Fox News,Facebook,x,5,x,1,5,x
+7996626,Twitter,New York Times,Fox News,x,2,5,1,3.5,2.121320344
+7996695,Twitter,Instagram,ESPN,x,x,2,1,2,x
+7996991,Fox News,Mark Levin Show,Tucker Carlson,5,x,5,0,5,0
+7997600,twitter,youtube,new york times,x,x,2,1,2,x
+7998607,Facebook,CBS,Instagram,x,2,x,1,2,x
+7998622,Reddit,Twitter,Google News,x,x,x,1,x,x
+7998630,cnn,cbs,abc,1,2,2,0,1.666666667,0.577350269
+7998745,YouTube ,Twitter,Reddit,x,x,x,1,x,x
+7998862,Reddit,CNN,BBC,x,2,3,1,2.5,0.707106781
+7998871,snapchat,instagram,word of mouth,x,x,x,1,x,x
+7999140,Bing,Google,Fox 4,x,x,5,1,5,x
+7999174,CNN,WLTX,Youtube,1,x,x,1,1,x
+7999759,facebook,,,x,x,x,1,x,x
+7999996,ABC News live,NBC Nightly News,Reuters,2,2,3,0,2.333333333,0.577350269
+8000117,Social Media,Local News,New Radio ,x,x,x,1,x,x
+8000335,Google News,Yahoo News,Fox News,x,x,5,1,5,x
+8001564,MSNBC,CNN,Twitter,1,1,x,1,1,0
+8002302,Youtube,Instagram,Facebook,x,x,x,1,x,x
+8002471,Twitter,Facebook,Reddit,x,x,x,1,x,x
+8002751,ticktoce,cnn,fox,x,1,5,1,3,2.828427125
+8002958,cnn,news 12,abc tv,1,x,2,0,1.5,0.707106781
+8003024,NBC,ABC,Youtube,2,2,x,1,2,0
+8003180,Twitter,YouTube,World News Channels,x,x,x,1,x,x
+8003181,local news,facebook,CNN,x,x,1,1,1,x
+8003347,facebook,instagram,twitter,x,x,x,1,x,x
+8003873,msnbc,new york times,cnn,1,2,1,0,1.333333333,0.577350269
+8005790,Reddit,Youtube,Twitter,x,x,x,1,x,x
+8005866,TV,Radio,News,x,x,x,0,x,x
+8006445,Google News,CNN,Youtube.com,x,1,x,1,1,x
+8006725,Twitter,Youtube,Reddit,x,x,x,1,x,x
+8007005,CNN,CBS,Fox,1,2,5,0,2.666666667,2.081665999
+8007081,twittwe,instagram,google,x,x,x,1,x,x
+8007134,fox news,conservative talk radio,foundation for human undertsnading,5,x,x,0,5,x
+8007196,CNN,google,aol news,1,x,x,1,1,x
+8007326,google,instagram,twitter,x,x,x,1,x,x
+8007466,TWITTER,FACEBOOK,CNN,x,x,1,1,1,x
+8007508,MSNBC,CNN,Local news TV station,1,1,x,0,1,0
+8007608,twitter,aol,cnn,x,x,1,1,1,x
+8007623,Reddit,Tik Tok ,Google,x,x,x,1,x,x
+8007676,cnn,fox,MSNBC,1,5,1,0,2.333333333,2.309401077
+8011639,New York Times,CNN,Fox News,2,1,5,0,2.666666667,2.081665999
+8013478,Local News Channel,Word of mouth,YouTube,x,x,x,1,x,x
+8013688,cnn,twitter,new york times,1,x,2,1,1.5,0.707106781
+8525433,Twitter,CNN,Bing,x,1,x,1,1,x
+8525435,Twitter,Reddit,ABC News,x,x,2,1,2,x
+8525437,YouTube,Google,CNN,x,x,1,1,1,x
+8525439,twitter,reddit,youtube,x,x,x,1,x,x
+8525440,twitter,cnn,fox news,x,1,5,1,3,2.828427125
+8525445,Twitter,,,x,x,x,1,x,x
+8525447,Reddit,Youtube,The Guardian,x,x,2,1,2,x
+8525450,Twitter,Reddit,New York Times,x,x,2,1,2,x
+8525451,Reddit,NYT,Msnbc,x,2,1,1,1.5,0.707106781
+8525456,Reddit,Youtube,Local News,x,x,x,1,x,x
+8525457,CNN,Local News,NBC,1,x,2,0,1.5,0.707106781
+8525459,Twitter,NPR,Washington Post,x,2,2,1,2,0
+8525463,Breaking Points podcast,AP News,Instagram,x,2,x,1,2,x
+8525468,reddit,cnn,new york times,x,1,2,1,1.5,0.707106781
+8525469,youtube,google search,local news,x,x,x,1,x,x
+8525470,Twitter ,The New York Times,CNN,x,2,1,1,1.5,0.707106781
+8525471,CNN,Fox News,Twitter,1,5,x,1,3,2.828427125
+8525475,CNN,Fox news,New york Times,1,5,2,0,2.666666667,2.081665999
+8525477,CNN,Twitter,New York Times,1,x,2,1,1.5,0.707106781
+8525478,Newsmax,Fox,OAN,5,5,5,0,5,0
+8525485,Twitter,Msnbc,CNN,x,1,1,1,1,0
+8525491,CNN,New York Times,Fox News,1,2,5,0,2.666666667,2.081665999
+8525502,Twitter,Reddit,Youtube,x,x,x,1,x,x
+8525507,NPR,CNN,New York Times,2,1,2,0,1.666666667,0.577350269
+8525508,cnn,nyt,youtube,1,2,x,1,1.5,0.707106781
+8525510,Fox News,Wall Street Journal,Twitter,5,3,x,1,4,1.414213562
+8525515,New York Times,Twitter,Reddit,2,x,x,1,2,x
+8525518,CNN,TWITTER,FOX NEWS,1,x,5,1,3,2.828427125
+8525533,cnn,msnbc,google news,1,1,x,1,1,0
+8525542,CNN,BBC,Fox News,1,3,5,0,3,2
+8525546,NPR,New York Times,Twitter,2,2,x,1,2,0
+8525562,Reddit,Telegram,Local News,x,3,x,1,3,x
+8525588,You Tube,CNN,Instagram,x,1,x,1,1,x
+8525595,CNN,Wall Street,Washington Post,1,3,2,0,2,1
+8525651,NPR,APR,Reuters,2,2,3,0,2.333333333,0.577350269
+8525664,Reddit,Twitter,Instagram,x,x,x,1,x,x
+8525666,MSNBC,CNN,Reddit,1,1,x,1,1,0
+8526167,Twitter,CNN,New York Times,x,1,2,1,1.5,0.707106781
+8526297, The New York Times,The Wall Street Journal,CNN,2,3,1,0,2,1
+8526356,USA Today,The Wall Street Journal,CNN,2,3,1,0,2,1
+8526623,CNN,Twitter,New York Times,1,x,2,1,1.5,0.707106781
+8526688,Reddit,Twitter,CNN,x,x,1,1,1,x
