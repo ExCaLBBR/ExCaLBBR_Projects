@@ -1,0 +1,39 @@
+,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response,Response
+Question Key,ConnectID,EngFluent,Income,age,famIncome,gender,maritalStatus,nChildren,occupation,parentDegree,parentMarriage,partDegree,raceEth_v2,response-4,zip10yo,zipborn,zipnow
+Participant Private ID,,,,,,,,,,,,,,,,,
+9362250.0,C402D9BA25FE4463BAC263377BBEFF1F,Yes,Less than $12500,47,$40500-$55999,Male,Single,0,unemployed,"2 year college degree, high school",Married,high school,White,7,59711,59711,59711
+9362255.0,C5B311C943274A0D83C778C3E8BCB463,Yes,More than $80000,29,More than $78000,Male,Married,0,Analyst,Masters Degree,Married,Bachelor  Degree,White,2,74447,74447,74447
+9362285.0,942F8765798D4C579F39E61F03BC5EC8,Yes,$22501-$42500,29,More than $78000,Male,Single,0,driver,associate's degree,Divorced,high school,White,4,60453,61866,61820
+9362297.0,26C5899683B14434963960311BEEEDA6,Yes,$42501-$80000,34,$25000-$40499,Male,Single,0,HCM Specialist,Highscool graduates,Married,Bachelors of Science,White,3,16914,16914,14609
+9362305.0,D505B3AB0A2C4CF289610C9B81F909B2,Yes,More than $80000,49,More than $78000,Female,Single,0,Police Dispatcher,None,Married,Bachelors,White,4,65459,65101,65401
+9362320.0,738C47B8F8254C7B80D9362DD68F28BE,Yes,$22501-$42500,45,$56000-$78000,Male,Single,0,unemployed,master's degree,Married,bachelor's degree,White,5,56701,56701,56701
+9362321.0,2A2B6FF9D90943D99D47115FA01CAA82,Yes,More than $80000,39,$56000-$78000,Female,Other (please specify),0,"unemployed currently , but normally sales in tech industry","phd for father, bacelors for mom",Married,bachelors,White,5,77001,"oran, algeria",94109
+9362323.0,C809D394C2CD4B3296F6F24D523DE626,Yes,More than $80000,31,$40500-$55999,Male,Married,2,Engineer,High School,Divorced,Bachelor's ,White,5,19020,19020,19073
+9362324.0,D8789D1C3C7A482E82088F5A66FC1DC0,Yes,$42501-$80000,41,More than $78000,Male,Married,3,Client Service Specialist,Bachelor's Degree,Married,Bachelor's Degree,White,6,68801,69101,69101
+9362325.0,8EF8787736E24E4F8079EEA28A20703F,Yes,$12501-$22500,26,More than $78000,Female,Married,1,Freelance,Bachelors,Married,GED,White,3,73099,73099,73099
+9362326.0,2C49A4205FCE4B87B21F1A119800802B,Yes,More than $80000,28,More than $78000,Male,Married,0,Unemployed (looking for work),Bachelor degree,Married,Graduate degree,White,5,75019,75019,78704
+9362328.0,1185DE4C16904897A009B091B08A2A14,Yes,$12501-$22500,36,Don't know,Male,Single,0,Disabled unable to work,PhD,Never married,B.A.,White,1,78735,N/A Russia.,76502
+9362329.0,6611897C0FDC49A4A76F45FF8C5C3F61,Yes,$22501-$42500,38,More than $78000,Male,Single,0,soda-pop brewer,DVM,Married,BS architecture,White,4,43082,43081,29910
+9362330.0,64E9038A43A3492A8B3818A1592D1A50,Yes,More than $80000,42,More than $78000,Male,Single,0,manager,none,Never married,masters,White,2,63303,63303,63368
+9362331.0,D07EF52D41F747F0A7A3D65499269351,Yes,$42501-$80000,58,$25000-$40499,Female,Married,1,teacher,BA,Married,BA,White,5,27834,27834,27817
+9362332.0,B9F8D13D5FBC4BEBB7BEC0A603E1B61E,Yes,$42501-$80000,36,$40500-$55999,Male,Single,0,Disabled,High School,Married,High School,White,6,29223,29223,29053
+9362333.0,1E9F2DF0EAC14FE5ACF9DC801B872A3F,Yes,$42501-$80000,39,Don't know,Female,Single,0,payroll,AA,Divorced,AA,White,"2 parents, 2 siblings",32653,32653,28117
+9362334.0,C4025EA173924B26BB57571322BFAED2,Yes,$22501-$42500,40,Less than $25000,Female,Married,0,Cashier,High school diploma and elementary school,Married,Associates Degree,White,6,43939,43906,43935
+9362335.0,965B0E4313264F5A9A5222E31D9C17F3,Yes,$42501-$80000,40,Less than $25000,Male,Single,2,software developer,high school,Divorced and Remarried,bachelors,White,5,85730,85730,85730
+9362336.0,364156442CF0468C8BD84D8FCDCC9322,Yes,Less than $12500,33,$25000-$40499,Male,Single,0,SELF EMPLOYED,High School,Married,High School,White,8,49601,49677,49601
+9362337.0,C4877CDA9C3F47D388A7116628029E44,Yes,$42501-$80000,37,$25000-$40499,Female,Married,0,Case Manager,HSD,Married,MA Psychology,White,6,86001,86001,85929
+9362339.0,5F026F06CA5A4400B8DA7A0EFBAB72D5,Yes,More than $80000,39,Don't know,Female,Married,0,unemployed,bachelors,Married,masters,White,4,44663,44663,44663
+9362340.0,304B703B1410477DAB3A032D0FF2E0FD,Yes,More than $80000,35,$56000-$78000,Male,Married,1,california,masters,Married,masters,White,4,92646,92646,92646
+9362341.0,CE3D68BEAB7F4C2692E912DDAEA7894C,Yes,$22501-$42500,49,$25000-$40499,Female,Divorced,4,internet rater,BA,Married,BA,White,5,18702,18702,18618
+9362342.0,1637ABF8C5934A0B88F168A470CF3862,Yes,More than $80000,31,$56000-$78000,Female,Married,5,Junior Accountant,"Roughly $65,000",Married,Associate Degree,White,4,43229,43229,43229
+9362343.0,85C92CDBAC71452684E2566DAB6C7342,Yes,$22501-$42500,62,$40500-$55999,Female,Divorced,1,Healthcare Manager,MBA,Married,AA,White,4,22305,22305,32789
+9362345.0,9CB5D53FCCE344C2A0DEE29B44252F1E,Yes,Less than $12500,38,$56000-$78000,Female,Single,0,unemployed,High school diploma,Married,PhD,White,4,45039,45039,45236
+9362346.0,2D2158AFE9164BBEB1BCC567DF16EE43,Yes,Less than $12500,54,$56000-$78000,Female,Married,1,web developer,MD,Married,Masters,White,4,08558,08601,10990
+9362347.0,69E4C35A0296446D87A626AF9CDA1A71,Yes,$22501-$42500,35,More than $78000,Female,Married,1,finance,Master degree,Married,Master degree,White,3,34953,34953,34953
+9362349.0,109683F3D7E1447DA176A5857EE46F6B,Yes,$22501-$42500,64,$25000-$40499,Female,Single,0,Retired,some college,Married,Some college,White,5,29483,27215,29483
+9362350.0,22E492A741D541719F3F4A32D1FDD283,Yes,$22501-$42500,34,Less than $25000,Female,Single,0,self employed,partial college,Other (please specify),high school diploma,White,2,65265,"Indianapolis, IN (I'm unsure of exact zip code as many codes cover that area)",65265
+9362352.0,C47AFFCD72EB4F5E954A1A6E3FC13EF4,Yes,$22501-$42500,63,$40500-$55999,Female,Married,0,writer,Masters,Married,BA,White,6,91324,75206,91351
+9362354.0,D9C48724E47247B4A0569CCEF14277C5,Yes,$42501-$80000,33,$56000-$78000,Male,Married,3,IT manager,bsc,Married,bsc,White,6,10011,10011,10012
+9362356.0,EEC99E3907A744688B6F2C5E526D7185,Yes,$22501-$42500,34,More than $78000,Male,Single,0,Office associate,masters,Married,associate,White,4,48197,48197,48169
+9362360.0,4B8B7F875E524C49BA7EB274963751EA,Yes,$42501-$80000,25,$56000-$78000,Male,Single,1,SEM Analyst,Bachelors,Married,Bachelors,White,1,33404,33404,33404
+9362738.0,3A47BE994BF14AF4A8483FA3579FF261,Yes,$42501-$80000,32,$40500-$55999,Female,Married,1,Sales,BSE,Married,BSM,White,4,98503,98503,92056
