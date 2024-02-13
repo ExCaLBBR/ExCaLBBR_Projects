@@ -1,0 +1,17 @@
+﻿ConditionCode,Condition,PlayerA,PlayerB
+1000,WhiteFemale_InGrp,Becky,Emma
+1001,WhiteFemale_InGrp_Swap,Emma,Becky
+1010,WhiteFemale_OutGrp,Yuxi,Emma
+1011,WhiteFemale_OutGrp_Swap,Emma,Yuxi
+1100,ChineseFemale_InGrp,Xinyi,Yuxi
+1101,ChineseFemale_InGrp_Swap,Yuxi,Xinyi
+1110,ChineseFemale_OutGrp,Emma,Yuxi
+1111,ChineseFemale_OutGrp_Swap,Yuxi,Emma
+0000,WhiteMale_InGrp,Spencer,Jack
+0001,WhiteMale_InGrp_Swap,Jack,Spencer
+0010,WhiteMale_OutGrp,Haoyu,Jack
+0011,WhiteMale_OutGrp_Swap,Jack,Haoyu
+0100,ChineseMale_InGrp,Haoran,Haoyu
+0101,ChineseMale_InGrp_Swap,Haoyu,Haoran
+0110,ChineseFemale_OutGrp,Jack,Haoyu
+0111,ChineseMale_OutGrp_Swap,Haoyu,Jack
