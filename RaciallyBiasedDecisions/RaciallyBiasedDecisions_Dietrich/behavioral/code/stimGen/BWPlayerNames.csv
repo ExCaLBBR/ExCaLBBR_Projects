@@ -10,7 +10,7 @@ ConditionCode,Condition,PlayerA,PlayerB
 0000,WhiteMale_InGrp,<em><b>Jack</b>,<em><b>Spencer</b>
 0001,WhiteMale_InGrp_Swap,<em><b>Spencer</b>,<em><b>Jack</b>
 0010,WhiteMale_OutGrp,<em><b>Deshawn</b>,<em><b>Jack</b>
-0011,WhiteMale_OutGrp,<em><b>Jack</b>,<em><b>Deshawn</b>
+0011,WhiteMale_OutGrp_Swap,<em><b>Jack</b>,<em><b>Deshawn</b>
 0100,BlackMale_InGrp,<em><b>Deshawn</b>,<em><b>Jamal</b>
 0101,BlackMale_InGrp_Swap,<em><b>Jamal</b>,<em><b>Deshawn</b>
 0110,Blackale_OutGrp,<em><b>Jack</b>,<em><b>Deshawn</b>
