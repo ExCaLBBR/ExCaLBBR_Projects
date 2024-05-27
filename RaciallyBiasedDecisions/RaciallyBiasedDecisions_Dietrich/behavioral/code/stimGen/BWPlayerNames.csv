@@ -13,5 +13,5 @@ ConditionCode,Condition,PlayerA,PlayerB
 0011,WhiteMale_OutGrp,<em><b>Jack</b>,<em><b>Deshawn</b>
 0100,BlackMale_InGrp,<em><b>Deshawn</b>,<em><b>Jamal</b>
 0101,BlackMale_InGrp_Swap,<em><b>Jamal</b>,<em><b>Deshawn</b>
-0110,BlackFemale_OutGrp,<em><b>Jack</b>,<em><b>Deshawn</b>
+0110,Blackale_OutGrp,<em><b>Jack</b>,<em><b>Deshawn</b>
 0111,BlackMale_OutGrp_Swap,<em><b>Deshawn</b>,<em><b>Jack</b>
