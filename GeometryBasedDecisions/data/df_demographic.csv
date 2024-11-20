@@ -408,7 +408,7 @@ ParticipantID,DoB_month,DoB_year,5yr_US,SexAssigned,Gender,American Indian or Al
 11890874,1,32,Yes,Female,Female,0,0,0,0,0,1,data analyst,19090,19090,22150,"More than $78,000",4,Widowed,Master's degree,Doctoral degree,"More than $80,000",Married,0,,,
 11890875,5,27,Yes,Male,Male,0,0,0,0,0,1,Accountant,55431,55431,60657,"$56,000-$78,000",4,Married,Bachelor's degree (4 years of college),Bachelor's degree (4 years of college),"$42,500-$80,000",Single,0,,,
 11890879,9,32,Yes,Female,Female,0,0,0,0,0,1,homemaker,18940,18940,15237,"More than $78,000",6,Married,Doctoral degree,Bachelor's degree (4 years of college),"More than $80,000",Married,1,,,
-11890883,0,0,Yes,Male,Male,0,0,1,0,0,0,95111,95111,95111,95111,"More than $78,000",4,Married,Bachelor's degree (4 years of college),Bachelor's degree (4 years of college),"More than $80,000",Married,3,,,
+11890883,4,26,Yes,Male,Male,0,0,1,0,0,0,95111,95111,95111,95111,"More than $78,000",4,Married,Bachelor's degree (4 years of college),Bachelor's degree (4 years of college),"More than $80,000",Married,3,,,
 11890887,5,40,Yes,Female,Female,0,0,0,0,0,1,stay at home parent,35670,35670,35754,"$25,001-$40,499",3,Married,Highschool degree,Associate's degree (2 years of college),"Less than $12,500",Married,1,,,
 11890892,8,42,Yes,Female,Female,0,0,1,0,0,0,technology manager,63034,63034,30082,"$56,000-$78,000",4,Never married,Bachelor's degree (4 years of college),Bachelor's degree (4 years of college),"$42,500-$80,000",Single,0,,,
 11890898,4,23,Yes,Female,Female,0,0,0,0,0,1,,37601,24641,24266,"$25,001-$40,499",2,Never married,Master's degree,Highschool degree,"$22,500-$42,999",Single,1,,,
