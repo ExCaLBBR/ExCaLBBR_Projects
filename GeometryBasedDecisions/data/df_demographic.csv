@@ -404,7 +404,7 @@ ParticipantID,DoB_month,DoB_year,5yr_US,SexAssigned,Gender,American Indian or Al
 11890865,10,33,Yes,Male,Male,0,0,0,0,0,1,Engineer,19718,19713,19701,"$56,000-$78,000",5,Widowed,Highschool degree,Bachelor's degree (4 years of college),"$42,500-$80,000",Married,1,,,
 11890868,6,29,Yes,Male,Male,0,0,0,0,0,1,Software Engineer,89156,89156,89156,"$45,500-$55,999",5,Married,Bachelor's degree (4 years of college),Bachelor's degree (4 years of college),"$42,500-$80,000",Married,2,,,
 11890869,7,41,Yes,Male,Male,0,0,1,0,0,0,Customer service rep,45202,45202,45202,"More than $78,000",4,Never married,Bachelor's degree (4 years of college),Associate's degree (2 years of college),"$22,500-$42,999",Single,0,,,
-11890870,,,Yes,Male,Male,0,0,1,0,0,0,Human Services Manager ,90807,90621,91773,"More than $78,000",5,Married,Bachelor's degree (4 years of college),Master's degree,"More than $80,000",Married,3,,,
+11890870,2,30,Yes,Male,Male,0,0,1,0,0,0,Human Services Manager ,90807,90621,91773,"More than $78,000",5,Married,Bachelor's degree (4 years of college),Master's degree,"More than $80,000",Married,3,,,
 11890874,1,32,Yes,Female,Female,0,0,0,0,0,1,data analyst,19090,19090,22150,"More than $78,000",4,Widowed,Master's degree,Doctoral degree,"More than $80,000",Married,0,,,
 11890875,5,27,Yes,Male,Male,0,0,0,0,0,1,Accountant,55431,55431,60657,"$56,000-$78,000",4,Married,Bachelor's degree (4 years of college),Bachelor's degree (4 years of college),"$42,500-$80,000",Single,0,,,
 11890879,9,32,Yes,Female,Female,0,0,0,0,0,1,homemaker,18940,18940,15237,"More than $78,000",6,Married,Doctoral degree,Bachelor's degree (4 years of college),"More than $80,000",Married,1,,,
